@@ -1,12 +1,12 @@
 # SITE CONFIGURATION
-title: Sleek # your site title
-author: GitHub User # You :P
+title: ISMIR 2020  # your site title
+author: Evan Savage # You :P
 description: > # Meta description of Homepage
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-baseurl: "/sleek" # the subpath of your site, e.g. /blog
-url: "https://janczizikow.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/ISMIR2020" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
 social:
@@ -28,7 +28,7 @@ navigation: # Navigation links
 tagline: >
   Modern Jekyll theme focused on speed performance &amp; SEO best practices
 
-hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+hero_img: ISMIR_Homepage_HERO_IMAGE.png # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: your-email@domain.com # email for form submission
 
@@ -69,3 +69,6 @@ compress_html:
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
+
+sass:
+    sass_dir: _sass
