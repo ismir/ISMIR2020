@@ -25,7 +25,7 @@
       </figure>
     {% endif %}
   </a>
-  <a class="post-card__inner" href="{{ post.url | relative_url }}">
+  <a class="post-card__inner__title" href="{{ post.url | relative_url }}">
     <div class="post-card__header">
       <h2>{{ post.title | strip_html | truncate: 50 }}</h2>
       {% assign date_format = site.sleek.date_format | default: "%b %-d, %Y" %}
@@ -33,10 +33,14 @@
         <time>{{ post.date | date: date_format }}</time>
       </span>
     </div>
+  </a>
+  <a class="post-card__inner" href="{{ post.url | relative_url }}">
     {% if post.summary %}
       <p>{{ post.summary | strip_html | truncatewords:20 }}</p>
     {% else %}
       <p>{{ post.content | strip_html | truncatewords: 20 }}</p>
     {% endif %}
+    <a href="#" class="more-link">Find out more ></a>
   </a>
+
 </div>
