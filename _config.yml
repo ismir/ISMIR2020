@@ -70,5 +70,10 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
+collections:
+  cards:
+    output: true
+
+
 # sass:
 #     sass_dir: _sass
