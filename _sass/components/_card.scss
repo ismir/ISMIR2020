@@ -67,8 +67,18 @@
     }
   }
 
+  &__inner__title {
+    @extend .post-card__inner;
+    padding: 0.5em 1.25em;
+    background-color: #76a091;
+  }
+
   &__header {
     margin-bottom: 0.75rem;
+    color: white ;
+    h2 {
+      color: white;
+    }
   }
 
   &__meta {
