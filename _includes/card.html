@@ -8,7 +8,7 @@
       {% endfor %}
     </span>
   {% endif %}
-  <a href="{{ card.url | relative_url }}">
+  <a href="{{ site.baseurl }}{{ card.link }}">
     {% if card.img %}
       <figure class="post-card__thumb">
         <img
@@ -25,7 +25,7 @@
       </figure>
     {% endif %}
   </a>
-  <a style="background-color: #{{ card.background-color }}" class="post-card__inner__title" href="{{ card.url | relative_url }}">
+  <a style="background-color: #{{ card.background-color }}" class="post-card__inner__title" href="{{ site.baseurl }}{{ card.link }}">
     <div class="post-card__header">
       <h2>{{ card.title | strip_html | truncate: 50 }}</h2>
       {% assign date_format = site.sleek.date_format | default: "%b %-d, %Y" %}
@@ -34,7 +34,7 @@
       </span>
     </div>
   </a>
-  <div class="post-card__inner" href="{{ card.url | relative_url }}">
+  <div class="post-card__inner" href="{{ site.baseurl }}{{ card.link }}">
     {% if card.content %}
       {% if card.title == 'Important Dates' %}
         {{ card.content }}
@@ -43,7 +43,7 @@
       {% endif %}
     {% endif %}
     {% if card.more %}
-      <a href="#" class="more-link">Find out more > </a>
+      <a href="{{ site.baseurl }}{{ card.link }}" class="more-link">Find out more > </a>
     {% endif %}
   </div>
 
