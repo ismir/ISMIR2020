@@ -9,8 +9,8 @@
   background-size: cover;
 
   @include breakpoint($lg) {
-    margin: 0 auto;
-    height: 36em;
+    // margin: 0 auto;
+    height: 20em;
   }
 
 }
@@ -66,21 +66,21 @@
   z-index: 1;
 
   @include breakpoint($xs) {
-    padding-top: 43px;
+    padding-top: 28px;
     .hero__title {
       font-size: 1.45em;
       line-height: 25px;
     }
   }
   @include breakpoint($md) {
-    padding-top: 42px;
+    padding-top: 14px;
     .hero__title {
       font-size: 1.9em;
       line-height: 32px;
     }
   }
   @include breakpoint($lg) {
-    padding-top: 223px;
+    padding-top: 44px;
     .hero__title {
       font-size: 2.2em;
       line-height: 34px;
@@ -104,12 +104,13 @@
 }
 
 .blog {
-  background-color: #f9f9f9;
+  background-color: #f4f4f4;
 }
 
 .post-list {
   padding-top: 2.5em;
   display: flex;
+  justify-content: space-between;
   flex-wrap: wrap;
   flex: 1 0 auto;
 
