@@ -40,9 +40,11 @@ layout: compress
         <div class="container">
           <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
 
-            {% for post in site.posts %}
+            {% assign cards = site.cards | sort: 'order' %}
+            {% for card in cards %}
               {% include card.html %}
             {% endfor %}
+            <!-- {% include card.html title="The Event" %} -->
 
             <!-- {% include pagination.html %} -->
           </div>
