@@ -8,17 +8,6 @@ h1 {
 	background-color: #313237
 }
 
-/* @media only screen and (min-width:48em) {
-	.post-card {
-		width: 48.4375%;
-		margin-right: 3.125%
-	}
-	.post-card:last-of-type,
-	.post-card:nth-child(2n+2) {
-		margin-right: 0
-	}
-} */
-
 html {
 	line-height: 1.15;
 	-ms-text-size-adjust: 100%;

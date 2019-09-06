@@ -2,7 +2,7 @@
   display: block;
   position: relative;
   width: 100%;
-  min-height: 250px;
+  min-height: 600px;
   border-radius: 4px;
   overflow: hidden;
   background-color: $bg-color;
@@ -60,6 +60,17 @@
     color: $grey;
     border-bottom: 0;
 
+    h3 {
+      color: #7c7e86;
+    }
+
+    table {
+      border: 0;
+      tbody tr td {
+        border: 0;
+      }
+    }
+
     &:focus,
     &:hover {
       color: $grey;
@@ -70,11 +81,14 @@
   &__inner__title {
     @extend .post-card__inner;
     padding: 0.5em 1.25em;
-    background-color: #76a091;
+    background-color: #fe9a02;
+    h2 {
+      margin: 0;
+    }
   }
 
   &__header {
-    margin-bottom: 0.75rem;
+    // margin-bottom: 0.75rem;
     color: white ;
     h2 {
       color: white;
@@ -108,5 +122,6 @@
     width: 100%;
     height: 100%;
     display: block;
+    object-fit: cover;
   }
 }
