@@ -3,7 +3,7 @@ title: The Event
 order: 1
 more: True
 img: artist-audience-celebration-2247678.jpg
-background-color: 5db77e;
+background-color: ff963c;
 link: /events
 ---
 
