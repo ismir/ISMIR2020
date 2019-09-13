@@ -60,6 +60,7 @@ function openMobileNav() {
         },
         complete: function() {
             $( this ).addClass( "js--open" );
+            $( this ).style.background = "white";
         }
     } );
 }
