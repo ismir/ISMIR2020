@@ -61,6 +61,7 @@ function openMobileNav() {
         complete: function() {
             $( this ).addClass( "js--open" );
             $( this ).style.background = "white";
+            $( ".header__toggle, .header__overlay" ).addClass( "--open" );
         }
     } );
 }
