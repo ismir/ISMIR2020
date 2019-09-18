@@ -22,7 +22,7 @@
   }
 
   @include breakpoint($md) {
-    width: 23%;
+    width: 42%;
     // margin-right: 3.125%;
     //
     // &:last-of-type,
@@ -32,7 +32,7 @@
   }
 
   @include breakpoint($xl) {
-    width: 23%;
+    width: 42%;
     // margin-right: 3.125%;
 
     // &:nth-child(2n+2) {
