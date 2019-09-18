@@ -32,8 +32,8 @@ hero_img: ISMIR_Homepage_HERO_IMAGE.png # Main background image: use the path fr
 
 email: your-email@domain.com # email for form submission
 
-twitter_username: jan_czizikow # replace with your_twitter_username or comment to remove link from footer
-github_username:  janczizikow # replace with your_github_username or comment to remove link from footer
+twitter_username: ismir2019 # replace with your_twitter_username or comment to remove link from footer
+github_username:  ismir # replace with your_github_username or comment to remove link from footer
 instagram_username: shanlongjj # replace with your_instagram_username or comment to remove link from footer
 
 disqus:
