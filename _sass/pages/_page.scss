@@ -89,8 +89,11 @@
   .hero__title {
     color: white;
     margin-bottom: 14px;
+    font-weight: 400;
   }
-
+  .hero__meta {
+    font-weight: 700;
+  }
 }
 
 .page-content {
@@ -111,7 +114,7 @@
 .post-list {
   padding-top: 2.5em;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   flex-wrap: wrap;
   flex: 1 0 auto;
 
