@@ -1,6 +1,6 @@
 ---
 title: The Participants
-order: 2
+order: 4
 more: True
 img: audience.jpg
 background-color: 8a8ccf
