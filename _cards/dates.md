@@ -6,11 +6,11 @@ link: /
 ---
 ### Deadlines
 
-| Abstract submission           | April 10, 2019 |
-| Final submission              | April 17, 2019 |
-| Notification of Acceptance    | June 12, 2019  |
-| Camera-ready Upload           | July 6, 2019   |
-
+| Call for papers               | 20 December 2019 |
+| Abstract submission           | 10 April 2020    |
+| Final submission              | 17 April 2020    |
+| Notification of Acceptance    | 12 June 2020     |
+| Camera-ready Upload           | 6 July 2020      |
 
 
 <hr>  
