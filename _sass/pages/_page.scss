@@ -16,11 +16,13 @@
 }
 
 .hero--small {
-  margin: 3.75rem auto 0;
+  margin: 5.05rem auto 0;
   min-height: 8.75rem;
   width: 100%;
   position: relative;
   background-color: $dark-light;
+  // background-position: 0% 27%;
+  background-size: cover;
 
   @include breakpoint($lg) {
     height: 12.5em;
@@ -121,4 +123,8 @@
   @include breakpoint($md) {
     padding-top: 5em;
   }
+}
+
+table {
+  table-layout: fixed;
 }

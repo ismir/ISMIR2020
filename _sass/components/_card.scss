@@ -2,7 +2,7 @@
   display: block;
   position: relative;
   width: 100%;
-  min-height: 600px;
+  min-height: 720px;
   border-radius: 4px;
   overflow: hidden;
   background-color: $bg-color;
@@ -10,6 +10,12 @@
   margin-bottom: 2.25rem; // don't use % value see more: https://github.com/philipwalton/flexbugs/issues/86
   border-bottom: 0;
   transition: box-shadow .25s ease;
+  .more-link {
+    position: absolute;
+    bottom: 20px;
+    left: 1.25rem;
+    border-bottom: none;
+  }
 
   &:hover,
   &:focus {
@@ -76,6 +82,7 @@
       color: $grey;
       border-bottom: 0;
     }
+
   }
 
   &__inner__title {
