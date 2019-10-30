@@ -3,7 +3,7 @@ title: The Participants
 order: 2
 more: True
 img: audience.jpg
-background-color: 8a8ccf
+background-color: 036ab3
 link: /participants
 ---
 
