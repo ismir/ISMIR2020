@@ -3,8 +3,9 @@ title: The Event
 order: 1
 more: True
 img: artist-audience-celebration-2247678.jpg
-background-color: ff963c;
+background-color: F07D00;
 link: /events
+summary: The annual conference of the [International Society for Music Information Retrieval](http://ismir.net/) (ISMIR) is the world’s leading research forum on processing, searching, organizing and accessing music-related data.
 ---
 
 The annual conference of the [International Society for Music Information Retrieval](http://ismir.net/) (ISMIR) is the world’s leading research forum on processing, searching, organizing and accessing music-related data.
