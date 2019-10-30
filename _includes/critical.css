@@ -86,7 +86,8 @@ body {
 .site__content {
 	-webkit-box-flex: 1;
 	-ms-flex: 1;
-	flex: 1
+	flex: 1;
+  background-color: #f4f4f4;
 }
 
 img {
@@ -245,6 +246,6 @@ a {
 		line-height: 3.125rem
 	}
 	.post-list {
-		padding-top: 5em
+		/* padding-top: 5em */
 	}
 }

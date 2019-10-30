@@ -110,18 +110,18 @@
 
 .blog {
   background-color: #f4f4f4;
-  min-height: 1100px;
+  // min-height: 1100px;
 }
 
 .post-list {
-  padding-top: 2.5em;
+  // padding-top: 2.5em;
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   flex-wrap: wrap;
   flex: 1 0 auto;
 
   @include breakpoint($md) {
-    padding-top: 5em;
+    // padding-top: 5em;
   }
 }
 
