@@ -35,14 +35,7 @@
     </div>
   </a>
   <div class="post-card__inner" href="{{ site.baseurl }}{{ card.link }}">
-    {% if card.content %}
-      {% if card.title == 'Important Dates' %}
-        {{ card.content }}
-      {% else %}
-        <p>{{ card.content | strip_html | truncatewords:80 }}</p>
-      {% endif %}
-    {% endif %}
-
+    {{ card.summary | markdownify }}
   </div>
   {% if card.more %}
     <a href="{{ site.baseurl }}{{ card.link }}" class="more-link">Find out more > </a>
