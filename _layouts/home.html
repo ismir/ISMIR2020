@@ -5,7 +5,7 @@ layout: compress
 <html lang="{{ page.lang | default: site.lang | default: "en-US" }}">
 
   {% include head.html %}
-
+  <!-- <script src="{{ '/assets/js/pixi.min.js' | relative_url }}"></script> -->
   <body class="site">
 
     {% if site.google_tag_manager %}
@@ -28,7 +28,7 @@ layout: compress
             <br>for Music Information Retrieval</b>
             <br>Conference
         </h2>
-        <p class="hero__meta">12-16 OCTOBER 2020
+        <p class="hero__meta">12&ndash;16 OCTOBER 2020
           <br>CENTRE MONT ROYAL, MONTREAL
           <br>CANADA
         </p>
@@ -37,6 +37,9 @@ layout: compress
 
     <main class="site__content">
       <section class="blog">
+        <div class="container">
+          {% include dates.html %}
+        </div>
         <div class="container">
           <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
 

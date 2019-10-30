@@ -2,7 +2,7 @@
   display: block;
   position: relative;
   width: 100%;
-  min-height: 720px;
+  min-height: 500px;
   border-radius: 4px;
   overflow: hidden;
   background-color: $bg-color;
@@ -38,7 +38,7 @@
   }
 
   @include breakpoint($xl) {
-    width: 42%;
+    width: 32%;
     // margin-right: 3.125%;
 
     // &:nth-child(2n+2) {
@@ -82,7 +82,9 @@
       color: $grey;
       border-bottom: 0;
     }
-
+    a {
+      border-bottom: none;
+    }
   }
 
   &__inner__title {
@@ -131,5 +133,29 @@
     height: 100%;
     display: block;
     object-fit: cover;
+  }
+}
+
+.event-card {
+  display: flex;
+  justify-content: space-around;
+  position: relative;
+  width: 100%;
+  // min-height: 720px;
+  margin-top: 2.25rem;
+  border-radius: 4px 4px;
+  overflow: hidden;
+  background-color: $bg-color;
+  // box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+  margin-bottom: 2.25rem; // don't use % value see more: https://github.com/philipwalton/flexbugs/issues/86
+  border-bottom: 0;
+  transition: box-shadow .25s ease;
+  // &:hover,
+  // &:focus {
+  //   border-bottom: 0;
+  //   box-shadow: 0 2px 40px 0 hsla(232, 8%, 63%, .3);
+  // }
+  div {
+    width: 45%;
   }
 }
