@@ -2,9 +2,10 @@
 title: Montréal hosts ISMIR2020
 order: 3
 more: True
-img: montreal-690737_1920.jpg
-background-color: e0c4a3
+img: marc-olivier-jodoin-qIoF5XHs_Cs-unsplash.jpg
+background-color: 00963F
 link: /Montreal
+summary: Montréal’s warmth, cosmopolitan character and geographic accessibility will ensure that the ISMIR2020 conference will be successful and memorable.
 ---
 
 Major international companies have established head offices in Montréal, proof that this metropolis occupies the enviable role of both economic leader and innovator. Today, Montréal is recognized worldwide for its network of research facilities in leading strategic industries such as aerospace, engineering, finance, insurance, life sciences, information and communication technologies, agri-food, energy, gaming, clean technologies and transportation. As a major city in one the world’s most socially and economically stable countries, Montréal’s commitment to innovation, excellence and growth is reputed internationally, attracting some of the best and brightest minds from around the world today.
