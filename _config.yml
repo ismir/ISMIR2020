@@ -34,7 +34,7 @@ email: your-email@domain.com # email for form submission
 
 twitter_username: ismir2019 # replace with your_twitter_username or comment to remove link from footer
 github_username:  ismir # replace with your_github_username or comment to remove link from footer
-instagram_username: shanlongjj # replace with your_instagram_username or comment to remove link from footer
+wikipedia: https://en.wikipedia.org/wiki/International_Society_for_Music_Information_Retrieval # replace with your_instagram_username or comment to remove link from footer
 
 disqus:
   shortname: janczizikow # to enable comments replace with your_disqus_shortname
