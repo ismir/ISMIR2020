@@ -2,7 +2,7 @@
 title: Montréal hosts ISMIR2020
 order: 3
 more: True
-img: marc-olivier-jodoin-qIoF5XHs_Cs-unsplash.jpg
+img: biosphere.jpg
 background-color: 00963F
 link: /Montreal
 summary: Montréal’s warmth, cosmopolitan character and geographic accessibility will ensure that the ISMIR2020 conference will be successful and memorable.
