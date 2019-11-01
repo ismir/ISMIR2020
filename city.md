@@ -9,8 +9,6 @@ background_position: 0% 27%
 
 ## Bienvenue à Montréal! ##
 
-<!-- [![](/assets/img/cards/montreal2minstill.png)](/assets/img/cards/montreal2min.mp4) -->
-
 <video style="width: 100%;" controls>
   <source src="{{ site.baseurl }}/assets/vid/montreal.webm" type="video/webm">
   <source src="{{ site.baseurl }}/assets/vid/montreal_2.mp4" type="video/mp4">
@@ -34,13 +32,3 @@ Montréal’s warmth, cosmopolitan character and geographic accessibility will 
 
 In early fall, the local average temperature is around 15 ̊C (59 ̊F). Fall is a truly magical season in Montréal. Not only do the leaves carpet the ground with stunning golden colours, but the skyline also becomes dotted with bright reds and deep oranges that will take your breath away.
 The fall cultural calendar also bubbles with events and activities. It’s the perfect time to catch up on fantastic concerts, plays, dance shows, exhibitions, and international films that feed our minds and spirits.
-
-### MEETING VENUE
-The scientific program of ISMIR will be hosted at [Centre Mont-Royal (CMR)](https://centremontroyal.com/en/), which is located in the heart of downtown Montréal.
-
-The tutorials, concert, and part of the satellite events will be hosted at the [Schulich School of Music](https://www.mcgill.ca/music/) of McGill University.
-
-### OFFSITE VENUES FOR SOCIAL EVENTS
-The ISMIR banquet will be held at [Cirque Éloize](https://www.cirque-eloize.com/en/), a heritage train station dating back to 1883.
-
-The ISMIR reception will be held at [L'Astral](http://www.sallelastral.com/en), one of the finest concert venues for popular music in the city.
