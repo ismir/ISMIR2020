@@ -43,10 +43,12 @@ layout: compress
           </div>
           <div class="cards-container">
             {% include city.html %}
-            {% assign cards = site.cards | sort: 'order' %}
-            {% for card in cards %}
-              {% include card.html %}
-            {% endfor %}
+            <div class="small-cards">
+              {% assign cards = site.cards | sort: 'order' %}
+              {% for card in cards %}
+                {% include card.html %}
+              {% endfor %}
+            </div>
           </div>
           <!-- {% include card.html title="The Event" %} -->
 

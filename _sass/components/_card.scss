@@ -7,7 +7,7 @@
   overflow: hidden;
   background-color: $bg-color;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
-  margin-bottom: 2.25rem; // don't use % value see more: https://github.com/philipwalton/flexbugs/issues/86
+  // margin-bottom: 2.25rem; // don't use % value see more: https://github.com/philipwalton/flexbugs/issues/86
   border-bottom: 0;
   transition: box-shadow .25s ease;
   .more-link {
@@ -144,6 +144,13 @@
   // justify-content: space-around;
   position: relative;
   width: 100%;
+  // height: 100%;
+  @include breakpoint($xs) {
+    height: auto;
+  }
+  @include breakpoint($lg) {
+    height: 100%;
+  }
   // min-height: 720px;
 
   border-radius: 4px 4px;
@@ -161,33 +168,186 @@
   // div {
   //   width: 45%;
   // }
+  .post-card__inner {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    @include breakpoint($xs) {
+      height: auto;
+    }
+    @include breakpoint($md) {
+      height: 1000px;
+    }
+    @include breakpoint($lg) {
+      height: auto;
+    }
+  }
 }
 
 .dates-container {
-  width: 30%;
+  // width: 30%;
   // margin-bottom: 2.25rem;
   margin-top: 2.25rem;
-}
-.cards-container {
-  width: 70%;
-  // margin-bottom: 2.25rem;
-  margin-top: 2.25rem;
-  padding: 0 0 0 2.25rem;
-  display: flex;
-  justify-content: space-between;
-  flex-wrap: wrap;
-  > div:first-child {
-    height: 383px;
-    width: 100%;
+  margin-bottom: 2.25rem;
+
+  @include breakpoint($md) {
+    width: 40%;
   }
-  > div:not(:first-child) {
-    // flex: 1;
-    width: 48%;
-    height: 480px;
+  @include breakpoint($lg) {
+    width: 30%;
+  }
+}
+.city-container {
+
+}
+
+.cards-container {
+  // width: 70%;
+
+
+  @include breakpoint($xs) {
+    padding-left: 0;
+    margin-top: 0;
+    margin-bottom: 2.25rem;
+  }
+  @include breakpoint($md) {
+    width: 60%;
+    padding: 0 0 0 2.25rem;
+    margin-top: 2.25rem;
+  }
+  @include breakpoint($lg) {
+    width: 70%;
+    padding: 0 0 0 2.25rem;
+  }
+  // margin-bottom: 2.25rem;
+
+  // display: flex;
+  // justify-content: space-between;
+  // flex-wrap: wrap
+  .small-cards {
+    display: flex;
+
+    // justify-content: space-between;
+    @include breakpoint($xs) {
+      flex-direction: column;
+    }
+    @include breakpoint($sm) {
+      flex-direction: row;
+    }
+    @include breakpoint($md) {
+      flex-direction: column;
+      height: calc(70% - 1.125rem);
+    }
+    @include breakpoint($lg) {
+      flex-direction: row;
+      height: calc(60% - 1.125rem);
+    }
+    // @include breakpoint($) {
+    //   flex-direction: row;
+    // }
+    > div:first-child {
+      @include breakpoint($xs) {
+        margin-right: 0;
+        margin-bottom: 0;
+      }
+      @include breakpoint($sm) {
+        margin-right: 1.125rem;
+      }
+      @include breakpoint($md) {
+        margin-right: 0;
+        margin-bottom: 1.125rem;
+      }
+      @include breakpoint($lg) {
+        margin-right: 1.125rem;
+        margin-bottom: 0;
+      }
+    }
+    > div:not(:first-child) {
+      @include breakpoint($xs) {
+        margin-left: 0;
+        margin-top: 0;
+      }
+      @include breakpoint($sm) {
+        margin-left: 1.125rem;
+      }
+      @include breakpoint($md) {
+        margin-left: 0;
+        margin-top:1.125rem;
+      }
+      @include breakpoint($lg) {
+        margin-left: 1.125rem;
+        margin-top: 0;
+      }
+    }
+    .post-card {
+      @include breakpoint($xs) {
+        margin-left: 0;
+        margin-right: 0;
+        width: 100%;
+        // height: 490px;
+      }
+      @include breakpoint($sm) {
+        height: auto;
+      }
+      @include breakpoint($md) {
+        height: calc(50% - 1.125rem);
+      }
+      @include breakpoint($lg) {
+        width: 48%;
+        height: 100%;
+      }
+      .post-card__inner__title {
+        @include breakpoint($xs) {
+          // height: 150px;
+        }
+        @include breakpoint($sm) {
+          // height: 200px;
+        }
+        @include breakpoint($lg) {
+          // height: 200px;
+        }
+      }
+      .post-card__thumb {
+        @include breakpoint($xs) {
+          height: 150px;
+        }
+        @include breakpoint($sm) {
+          height: 200px;
+        }
+        @include breakpoint($lg) {
+          // height: 200px;
+        }
+      }
+      .post-card__inner {
+        p {
+          @include breakpoint($xs) {
+            visibility: hidden;
+          }
+          @include breakpoint($sm) {
+            visibility: visible;
+          }
+        }
+
+      }
+    }
   }
 }
 
 .city-card {
+  @include breakpoint($xs) {
+    height: 300px;
+  }
+  @include breakpoint($sm) {
+
+  }
+  @include breakpoint($md) {
+    height: calc(30% - 1.125rem);
+  }
+  @include breakpoint($lg) {
+    height: calc(40% - 1.125rem);
+  }
+  // height: calc(50% - 1.125rem);
+  width: 100%;
   display: block;
   position: relative;
   // width: 100%;
