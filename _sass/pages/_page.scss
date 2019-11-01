@@ -118,7 +118,8 @@
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
-  flex: 1 0 auto;
+  // flex: 1 0 auto;
+  margin: 0 2.25rem;
 
   @include breakpoint($md) {
     // padding-top: 5em;
