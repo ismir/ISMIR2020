@@ -1,6 +1,6 @@
 ---
 title: The Participants
-order: 4
+order: 2
 more: True
 img: centremontroyal.jpg
 background-color: 0069B4
