@@ -1,15 +1,12 @@
 ---
 layout: page
-title: Montréal
+title: Bienvenue à Montréal!
 permalink: /Montreal/
 hero_background: biosphere.jpg
 background_position: 0% 27%
 ---
 
-
-## Bienvenue à Montréal! ##
-
-[]({ site.baseurl }}/assets/img/cards/montreal2minstill.png)({ site.baseurl }}/assets/img/cards/montreal2min.mp4)
+[]({ site.baseurl }}/assets/img/cards/montreal2minstill.png)
 
 <video style="width: 100%;" controls>
 
@@ -18,7 +15,6 @@ Your browser does not support the video tag.
 </video>
 
 <br>  
-
 
 ### CITY OVERVIEW
 
@@ -34,3 +30,5 @@ Montréal’s warmth, cosmopolitan character and geographic accessibility will 
 
 In early fall, the local average temperature is around 15 ̊C (59 ̊F). Fall is a truly magical season in Montréal. Not only do the leaves carpet the ground with stunning golden colours, but the skyline also becomes dotted with bright reds and deep oranges that will take your breath away.
 The fall cultural calendar also bubbles with events and activities. It’s the perfect time to catch up on fantastic concerts, plays, dance shows, exhibitions, and international films that feed our minds and spirits.
+
+Please see the [Events](/ISMIR2020/Events) page for more information about our ISMIR venues.
