@@ -2,7 +2,7 @@
 layout: page
 title: Events
 permalink: /events/
-hero_background: artist-audience-celebration-2247678.jpg
+hero_background: astral.jpg
 background_position: 0% 40%
 ---
 The annual conference of the [International Society for Music Information Retrieval](http://ismir.net/) (ISMIR) is the world’s leading research forum on processing, searching, organizing and accessing music-related data.
