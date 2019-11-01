@@ -2,9 +2,14 @@
 layout: page
 title: Montréal
 permalink: /Montreal/
-hero_background: marc-olivier-jodoin-qIoF5XHs_Cs-unsplash.jpg
+hero_background: biosphere.jpg
 background_position: 0% 27%
 ---
+
+
+## Bienvenue à Montréal! ##
+
+<!-- [![](/assets/img/cards/montreal2minstill.png)](/assets/img/cards/montreal2min.mp4) -->
 
 <video style="width: 100%;" controls>
   <source src="{{ site.baseurl }}/assets/vid/montreal.webm" type="video/webm">
@@ -13,6 +18,7 @@ Your browser does not support the video tag.
 </video>
 
 <br>  
+
 
 ### CITY OVERVIEW
 
