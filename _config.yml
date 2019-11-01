@@ -23,7 +23,7 @@ navigation: # Navigation links
   - {name: 'Dates', link: '/dates'}
   - {name: 'Events', link: '/events'}
   - {name: 'Participants', link: '/participants'}
-  - {name: 'About', link: '/about'}
+  - {name: 'Montréal', link: '/Montreal'}
 
 tagline: >
   Modern Jekyll theme focused on speed performance &amp; SEO best practices
