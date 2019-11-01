@@ -37,20 +37,20 @@ layout: compress
 
     <main class="site__content">
       <section class="blog">
-        <div class="container">
-          {% include dates.html %}
-        </div>
-        <div class="container">
-          <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
-
+        <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
+          <div class="dates-container">
+            {% include dates.html %}
+          </div>
+          <div class="cards-container">
+            {% include city.html %}
             {% assign cards = site.cards | sort: 'order' %}
             {% for card in cards %}
               {% include card.html %}
             {% endfor %}
-            <!-- {% include card.html title="The Event" %} -->
-
-            <!-- {% include pagination.html %} -->
           </div>
+          <!-- {% include card.html title="The Event" %} -->
+
+          <!-- {% include pagination.html %} -->
         </div>
       </section>
     </main>
