@@ -447,6 +447,9 @@
     color: white;
   }
   .description {
+    p {
+      margin: 0;
+    }
     position: absolute;
     bottom: 1.25rem;
     left: 1.25rem;
