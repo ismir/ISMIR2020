@@ -2,7 +2,7 @@
 title: The Participants
 order: 4
 more: True
-img: audience.jpg
+img: centremontroyal.jpg
 background-color: 0069B4
 link: /participants
 summary: Check out the sponsors that are participating in this year's conference.
