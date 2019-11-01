@@ -6,6 +6,14 @@ hero_background: marc-olivier-jodoin-qIoF5XHs_Cs-unsplash.jpg
 background_position: 0% 27%
 ---
 
+<video style="width: 100%;" controls>
+  <source src="{{ site.baseurl }}/assets/vid/montreal.webm" type="video/webm">
+  <source src="{{ site.baseurl }}/assets/vid/montreal_2.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<br>  
+
 ### CITY OVERVIEW
 
 Major international companies have established head offices in Montréal, proof that this metropolis occupies the enviable role of both economic leader and innovator. Today, Montréal is recognized worldwide for its network of research facilities in leading strategic industries such as aerospace, engineering, finance, insurance, life sciences, information and communication technologies, agri-food, energy, gaming, clean technologies and transportation. As a major city in one the world’s most socially and economically stable countries, Montréal’s commitment to innovation, excellence and growth is reputed internationally, attracting some of the best and brightest minds from around the world today.
