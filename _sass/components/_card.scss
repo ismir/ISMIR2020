@@ -60,8 +60,8 @@
 
   &__inner {
     display: block;
-    position: relative;
-    padding: 1.875rem 1.25rem 0.625rem;
+    // position: relative;
+    padding: 1.875rem 1.25rem;
     width: 100%;
     color: $grey;
     border-bottom: 0;
@@ -202,7 +202,7 @@
 }
 
 .cards-container {
-  // width: 70%;
+  width: 100%;
 
 
   @include breakpoint($xs) {
@@ -236,7 +236,7 @@
     }
     @include breakpoint($md) {
       flex-direction: column;
-      height: calc(70% - 1.125rem);
+      height: calc(67% - 1.125rem);
     }
     @include breakpoint($lg) {
       flex-direction: row;
@@ -248,7 +248,7 @@
     > div:first-child {
       @include breakpoint($xs) {
         margin-right: 0;
-        margin-bottom: 0;
+        // margin-bottom: 0;
       }
       @include breakpoint($sm) {
         margin-right: 1.125rem;
@@ -266,6 +266,7 @@
       @include breakpoint($xs) {
         margin-left: 0;
         margin-top: 0;
+        margin-bottom: 0;
       }
       @include breakpoint($sm) {
         margin-left: 1.125rem;
@@ -284,10 +285,12 @@
         margin-left: 0;
         margin-right: 0;
         width: 100%;
-        // height: 490px;
+        margin-bottom: 2.25rem;
+        // height: 300px;
       }
       @include breakpoint($sm) {
-        height: auto;
+        height: 475px;
+        margin-bottom: 0;
       }
       @include breakpoint($md) {
         height: calc(50% - 1.125rem);
@@ -296,29 +299,75 @@
         width: 48%;
         height: 100%;
       }
-      .post-card__inner__title {
-        @include breakpoint($xs) {
-          // height: 150px;
-        }
-        @include breakpoint($sm) {
-          // height: 200px;
-        }
-        @include breakpoint($lg) {
-          // height: 200px;
-        }
-      }
       .post-card__thumb {
         @include breakpoint($xs) {
-          height: 150px;
-        }
-        @include breakpoint($sm) {
           height: 200px;
         }
+        @include breakpoint($sm) {
+          height: 150px;
+        }
+        @include breakpoint($md) {
+          height: 100%;
+        }
         @include breakpoint($lg) {
-          // height: 200px;
+          height: 200px;
+        }
+      }
+      .more-link {
+        @include breakpoint($xs) {
+          color: #55f32f;
+        }
+        @include breakpoint($sm) {
+          color: #277CEA;
+        }
+        @include breakpoint($md) {
+          color: #55f32f;
+        }
+        @include breakpoint($lg) {
+          color: #277CEA;
         }
       }
       .post-card__inner {
+
+        p {
+          margin: 0;
+        }
+        @include breakpoint($xs) {
+          position: absolute;
+          top: 91px;
+          background-color: #00000070;
+          color: white;
+          p a {
+            color: #55f32f;
+          }
+        }
+        @include breakpoint($sm) {
+          position: relative;
+          top: 0;
+          background-color: white;
+          color: inherit;
+          p a {
+            color: #277CEA;
+          }
+        }
+        @include breakpoint($md) {
+          position: absolute;
+          top: 91px;
+          background-color: #00000070;
+          color: white;
+          p a {
+            color: #55f32f;
+          }
+        }
+        @include breakpoint($lg) {
+          position: relative;
+          top: 0;
+          background-color: white;
+          color: inherit;
+          p a {
+            color: #277CEA;
+          }
+        }
         p {
           @include breakpoint($xs) {
             visibility: hidden;
@@ -328,6 +377,24 @@
           }
         }
 
+      }
+      .post-card__inner__title {
+        @include breakpoint($xs) {
+          position: absolute;
+          top: 0;
+        }
+        @include breakpoint($sm) {
+          position: relative;
+          // top: inherit;
+        }
+        @include breakpoint($md) {
+          position: absolute;
+          top: 0;
+        }
+        @include breakpoint($lg) {
+          position: relative;
+          // top: inherit;
+        }
       }
     }
   }
@@ -341,7 +408,7 @@
 
   }
   @include breakpoint($md) {
-    height: calc(30% - 1.125rem);
+    height: calc(33% - 1.125rem);
   }
   @include breakpoint($lg) {
     height: calc(40% - 1.125rem);
@@ -380,13 +447,28 @@
     color: white;
   }
   .description {
+    p {
+      margin: 0;
+    }
     position: absolute;
     bottom: 1.25rem;
     left: 1.25rem;
     background: #00000099;
-    width: calc(48% - 2 * 1.25rem);
+
     color: white;
     padding: 15px;
     border-radius: 4px;
+    @include breakpoint($xs) {
+      width: calc(100% - 2 * 1.125rem);
+    }
+    @include breakpoint($sm) {
+      // width: calc(48% - 2 * 1.125rem);
+    }
+    @include breakpoint($md) {
+      width: calc(100% - 2 * 1.125rem);
+    }
+    @include breakpoint($lg) {
+      width: calc(48% - 2 * 1.125rem);
+    }
   }
 }

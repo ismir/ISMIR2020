@@ -3,8 +3,9 @@ layout: page
 title: Bienvenue à Montréal!
 permalink: /Montreal/
 hero_background: biosphere.jpg
-background_position: 0% 27%
+background_position: 0% 0%
 ---
+
 
 []({ site.baseurl }}/assets/img/cards/montreal2minstill.png)
 
