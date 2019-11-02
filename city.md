@@ -32,4 +32,4 @@ Montréal’s warmth, cosmopolitan character and geographic accessibility will 
 In early fall, the local average temperature is around 15 ̊C (59 ̊F). Fall is a truly magical season in Montréal. Not only do the leaves carpet the ground with stunning golden colours, but the skyline also becomes dotted with bright reds and deep oranges that will take your breath away.
 The fall cultural calendar also bubbles with events and activities. It’s the perfect time to catch up on fantastic concerts, plays, dance shows, exhibitions, and international films that feed our minds and spirits.
 
-Please see the [Events](/ISMIR2020/Events) page for more information about our ISMIR venues.
+Please see the [Events]({{ site.baseurl }}/events/) page for more information about our ISMIR venues.
