@@ -22,7 +22,7 @@ navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'Dates', link: '/dates'}
   - {name: 'Events', link: '/events'}
-  - {name: 'Participants', link: '/participants'}
+  - {name: 'Organizers', link: '/organizers'}
   - {name: 'Montréal', link: '/Montreal'}
 
 tagline: >
