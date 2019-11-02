@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ISMIR2020 Chairs
-permalink: /participants/
+permalink: /organizers/
 hero_background: centremontroyal.jpg
 background_position: 0% 49%
 ---
