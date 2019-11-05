@@ -1,5 +1,5 @@
 .header {
-	background-color: #f4f4f4;
+	background-color: #fff;
 	color: #343851;
 	position: absolute;
 	z-index: 4;
@@ -46,7 +46,7 @@
 	left: 0;
 	width: 100%;
 	height: auto;
-	background-color: #f4f4f4
+	background-color: #fff;
 	// background: #fff
 }
 
@@ -130,6 +130,6 @@
 		width: 100%;
 		-webkit-transform: scaleX(0);
 		transform: scaleX(0);
-		background: #277cea
+		background: #277cea;
 	}
 }
