@@ -3,7 +3,7 @@ title: The Event
 order: 1
 more: True
 img: astral.jpg
-background-color: F07D00;
+background-color: F07D00
 link: /events
 summary: The annual conference of the [International Society for Music Information Retrieval](http://ismir.net/) (ISMIR) is the world’s leading research forum on processing, searching, organizing and accessing music-related data.
 ---
