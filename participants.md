@@ -3,7 +3,7 @@ layout: page
 title: ISMIR2020 Chairs
 permalink: /organizers/
 hero_background: centremontroyal.jpg
-background_position: 0% 49%
+background_position: 0% 44%
 ---
 **General co-chairs**  
 Audrey Laplante  
