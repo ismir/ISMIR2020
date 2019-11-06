@@ -14,36 +14,50 @@ Julie Cumming
 Jin Ha Lee  
 Markus Schedl  
 
+**Publication**  
+Johanna Devaney  
+Cory McKay  
+Eva Zangerle 
+
 **Tutorials**  
 Blair Kaneshiro  
-Mohamed Sordo  
+Mohamed Sordo 
+
+**Late-breaking/Demo**  
+Xiao Hu  
+
+**Satellite Events**  
+Jordan B. Smith  
+Finn Upham  
+
+**WiMIR**  
+Claire Arthur  
+Katherine Kinnaird  
+
+**Unconference**  
+Eric Humphrey  
+
+**Sponsorship**  
+Elena Georgieva  
+Zhengshan (Kitty) Shi  
+
+**Industry**  
+Rachel Bittner 
 
 **Music**  
 Guillaume Boutard  
 Gabriel Vigliensoni  
 
-**Late-breaking/demo**  
-Xiao Hu  
-
-**Unconference**  
-Eric Humphrey  
-
-**Satellite events**  
-Jordan B. Smith  
-Finn Upham  
-
-**Publication**  
-Johanna Devaney  
-Cory McKay  
-Eva Zangerle  
-
-**Web**  
+**Website and Conference Management Software**  
 Néstor Nápoles López  
 Evan Savage  
 
-**Local arrangements**  
+**Local Arrangements**  
 Emily Hopkins  
 Gabriel Vigliensoni  
 
 **Volunteers**  
-Caroline Traube  
+Caroline Traube
+
+
+
