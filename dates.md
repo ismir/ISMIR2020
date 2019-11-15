@@ -30,7 +30,7 @@ permalink: /dates/
 <br>  
 
 | Reception | October 11, 2020 |
-| WiMIR Reception | October 12--16, 2020 |
+| WiMIR Reception | October TBD, 2020 |
 | Concert | October 13, 2020 |
 | Banquet | October 14, 2020 |
 
@@ -40,6 +40,6 @@ permalink: /dates/
 
 <br>  
 
-| HAMR                          | October 9--10, 2020  |
+| HAMR                          | October 16--17, 2020  |
 | WoRMS                         | October 10, 2020     |
 | DLfM                          | October 16, 2020     |
