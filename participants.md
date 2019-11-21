@@ -12,7 +12,7 @@ Ichiro Fujinaga
 **Scientific Program**  
 Julie Cumming  
 Jin Ha Lee  
-Brian McFee
+Brian McFee  
 Markus Schedl  
 
 **Publication**  
