@@ -8,11 +8,11 @@ permalink: /dates/
 
 <br>  
 
-| Call for Papers               | December 20, 2019    |
-| Abstract submission           | April 10, 2020       |
-| Final submission              | April 17, 2020       |
-| Notification of Acceptance    | June 12, 2020        |
-| Camera-ready Upload           | July 6, 2020         |
+| Call for Papers               | 20 December, 2019    |
+| Abstract submission           | 10 April, 2020       |
+| Final submission              | 17 April, 2020       |
+| Notification of Acceptance    | 12 June, 2020        |
+| Camera-ready Upload           | 6 July, 2020         |
 
 <br>   
 
@@ -21,8 +21,8 @@ permalink: /dates/
 
 <br>  
 
-| Tutorials                     | 11 Oct 2020          |
-| Scientific Program            | October 12--15, 2020 |
+| Tutorials                     | 11 October, 2020          |
+| Scientific Program            | 12--15 October, 2020 |
 
 <br>  
 
@@ -30,10 +30,10 @@ permalink: /dates/
 
 <br>  
 
-| Reception | October 11, 2020 |
-| WiMIR Reception | October TBD, 2020 |
-| Concert | October 13, 2020 |
-| Banquet | October 14, 2020 |
+| Reception | 11 October, 2020 |
+| WiMIR Reception | TBD October, 2020 |
+| Concert | 13 October, 2020 |
+| Banquet | 14 October, 2020 |
 
 <br>  
 
@@ -41,6 +41,6 @@ permalink: /dates/
 
 <br>  
 
-| HAMR                          | October 16--17, 2020  |
-| WoRMS                         | October 10, 2020     |
-| DLfM                          | October 16, 2020     |
+| WoRMS                         | 10 October, 2020     |
+| DLfM                          | 16 October, 2020     |
+| HAMR                          | 16--17 October, 2020  |
