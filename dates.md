@@ -8,6 +8,7 @@ permalink: /dates/
 
 <br>  
 
+| Call for Papers               | December 20, 2019    |
 | Abstract submission           | April 10, 2020       |
 | Final submission              | April 17, 2020       |
 | Notification of Acceptance    | June 12, 2020        |
@@ -21,7 +22,7 @@ permalink: /dates/
 <br>  
 
 | Tutorials                     | 11 Oct 2020          |
-| Scientific Program            | October 12--16, 2020 |
+| Scientific Program            | October 12--15, 2020 |
 
 <br>  
 
