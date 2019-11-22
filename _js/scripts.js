@@ -4,12 +4,12 @@ require( "lazysizes" );
 require( "lazysizes/plugins/unveilhooks/ls.unveilhooks.js" );
 
 // Jquery & Velocity JS included in GULP
-$( document ).ready( function() {
-    toggleMobileNav();
-    ShowHideNav();
-    formCheck();
-
-} );
+// $( document ).ready( function() {
+//     toggleMobileNav();
+//     ShowHideNav();
+//     formCheck();
+//     document.getElementById('montreal-video').controls = true;
+// } );
 
 // Close modal if ESC is pressed
 $( document ).keyup( function( e ) {

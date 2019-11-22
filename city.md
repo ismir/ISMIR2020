@@ -7,7 +7,7 @@ background_position: 0% 0%
 ---
 
 <div>
-  <video id="montreal-video" style="width: 100%;">
+  <video controls id="montreal-video" style="width: 100%;">
 
     <source src="{{ site.baseurl }}/assets/img/cards/montreal2min.mp4" type="video/mp4">
   Your browser does not support the video tag.
