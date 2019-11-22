@@ -6,15 +6,13 @@ hero_background: biosphere.jpg
 background_position: 0% 0%
 ---
 
+<div>
+  <video id="montreal-video" style="width: 100%;">
 
-[]({ site.baseurl }}/assets/img/cards/montreal2minstill.png)
-
-<video style="width: 100%;" controls>
-
-  <source src="{{ site.baseurl }}/assets/img/cards/montreal2min.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-
+    <source src="{{ site.baseurl }}/assets/img/cards/montreal2min.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+  </video>
+</div>
 <br>  
 
 ### CITY OVERVIEW
@@ -33,3 +31,10 @@ In early fall, the local average temperature is around 15 ̊C (59 ̊F). Fall is 
 The fall cultural calendar also bubbles with events and activities. It’s the perfect time to catch up on fantastic concerts, plays, dance shows, exhibitions, and international films that feed our minds and spirits.
 
 Please see the [Events]({{ site.baseurl }}/events/) page for more information about our ISMIR venues.
+
+
+
+
+<script>
+  document.getElementById('montreal-video').controls = true;
+</script>
