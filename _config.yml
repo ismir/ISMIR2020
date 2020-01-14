@@ -23,7 +23,9 @@ navigation: # Navigation links
   - {name: 'Dates', link: '/dates'}
   - {name: 'Events', link: '/events'}
   - {name: 'Organizers', link: '/organizers'}
+  - {name: 'Call for Papers', link: '/cfp'}
   - {name: 'Montréal', link: '/Montreal'}
+  
 
 tagline: >
   Modern Jekyll theme focused on speed performance &amp; SEO best practices
