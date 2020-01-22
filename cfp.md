@@ -31,7 +31,7 @@ All submissions must comply with the following requirements:
 
 -   **Length (6+n pages)**: papers must contain at most 6 pages of scientific content (including figures and tables), with additional optional pages that contain only references and acknowledgments.
     
--   **Templates**: papers must be submitted in PDF format using the [ISMIR 2020 templates](https://github.com/ismir/paper_templates/archive/2020v1.zip) (LaTex or Word). You may not manipulate the style files in any way.
+-   **Templates**: papers must be submitted in PDF format using the [ISMIR 2020 templates](https://github.com/ismir/paper_templates/archive/2020v2.zip) (LaTex or Word). You may not manipulate the style files in any way.
     
 -   **File size**: submitted PDF files must be at most 4MB in size. Please compress images and figures as necessary before submitting.
     
