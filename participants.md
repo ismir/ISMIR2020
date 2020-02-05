@@ -28,7 +28,7 @@ Mohamed Sordo
 Xiao Hu  
 
 **Satellite Events**  
-Jordan B. Smith  
+Jordan B. L. Smith  
 Finn Upham  
 
 **WiMIR**  
