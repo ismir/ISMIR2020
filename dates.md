@@ -41,6 +41,7 @@ permalink: /dates/
 
 <br>  
 
+| WiMIR Workshop                | 10 October 2020     |
 | WoRMS                         | 10 October 2020     |
 | DLfM                          | 16 October 2020     |
 | HAMR                          | 16--17 October 2020  |
