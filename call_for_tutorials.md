@@ -19,7 +19,7 @@ Tutorial proposals should consist of a 2–4 page abstract including the followi
 - Short biography of the presenters
 - Any special requirements
 
-The proposals should be submitted as a PDF attachment via email to [ismir2020-tutorials@ismir.net](mailto:ismir2020-tutorials@ismir.net) by March 31, 2020. Acceptance/rejection decisions will be made by the ISMIR2020 Tutorial Chairs, and notifications will be made by May 25, 2020. The decision will depend on the following criteria:
+The proposals should be submitted as a PDF attachment via email to [ismir2020-tutorials@ismir.net](mailto:ismir2020-tutorials@ismir.net) by April 30, 2020. Acceptance/rejection decisions will be made by the ISMIR2020 Tutorial Chairs, and notifications will be made by May 31, 2020. The decision will depend on the following criteria:
 
 - Relevance (i.e., of interest to the whole community or only a segment thereof)
 - Suitability to generally knowledgeable students in MIR rather than specialists
