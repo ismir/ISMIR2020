@@ -16,8 +16,6 @@ permalink: /dates/
 
 <br>   
 
-<br>  
-
 | Call for Tutorials           | 25 February 2020    |
 | Tutorials submission         | 30 April 2020       |
 | Tutorials notification       | 31 May 2020         |
