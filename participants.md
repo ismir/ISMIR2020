@@ -25,7 +25,8 @@ Blair Kaneshiro
 Mohamed Sordo 
 
 **Late-breaking/Demo**  
-Xiao Hu  
+Xiao Hu
+Christian Frisson
 
 **Satellite Events**  
 Jordan B. L. Smith  
