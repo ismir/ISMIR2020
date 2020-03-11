@@ -37,7 +37,7 @@ a {
   color: $link-color;
   text-decoration: none;
   transition: all .2s linear;
-  border-bottom: 1px dashed $link-color;
+  // border-bottom: 1px dashed $link-color;
 
   &:active,
   &:focus {
@@ -47,7 +47,7 @@ a {
   &:hover,
   &:focus {
     color: $primary-light;
-    border-bottom: 1px solid $primary-light;
+    // border-bottom: 1px solid $primary-light;
   }
 }
 
