@@ -469,6 +469,10 @@
   &:focus {
     border-bottom: 0;
     box-shadow: 0 2px 40px 0 hsla(232, 8%, 63%, .3);
+    .city-background {
+      -webkit-transform: scale(1.05);
+      transform: scale(1.05);
+    }
   }
 
   h1 {
@@ -509,7 +513,7 @@
   transition: 0.4s ease;
 }
 
-.city-background:hover, .post-card:hover a .post-card__thumb img {
+.post-card:hover a .post-card__thumb img {
   -webkit-transform: scale(1.08);
   transform: scale(1.08);
 }
