@@ -16,6 +16,12 @@ permalink: /dates/
 
 <br>
 
+| Call for Music              | 15 March 2020       |
+| Music submission            | 29 May 2020         |
+| Music notification          | 15 July 2020        |
+
+<br>
+
 | Call for Tutorials           | 25 February 2020    |
 | Tutorials submission         | 30 April 2020       |
 | Tutorials notification       | 31 May 2020         |
