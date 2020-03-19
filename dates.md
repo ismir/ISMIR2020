@@ -8,11 +8,11 @@ permalink: /dates/
 
 <br>
 
-| Call for Papers             | 20 December 2019    |
-| Abstract submission         | 10 April 2020       |
-| Final submission            | 17 April 2020       |
-| Notification of Acceptance  | 12 June 2020        |
-| Camera-ready upload         | 6 July 2020         |
+| Call for Papers             | Accepting submissions |                    |
+| Abstract submission         | ~~10 April 2020~~     | 8 May 2020         |
+| Final submission            | ~~17 April 2020~~     | 15 May 2020        |
+| Notification of Acceptance  | ~~12 June 2020~~      | 10 July 2020       |
+| Camera-ready upload         | ~~6 July 2020~~       | 3 August 2020      |
 
 <br>
 
