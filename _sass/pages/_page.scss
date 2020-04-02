@@ -1,17 +1,23 @@
 .hero__home {
   margin: 80px auto 0;
-  min-height: 16.25rem;
+  min-height: 17rem;
   width: 100%;
   position: relative;
   background-color: #dde5ea;
   background-repeat: no-repeat;
   background-position: 50%;
   background-size: cover;
-
-  @include breakpoint($lg) {
-    // margin: 0 auto;
-    height: 20em;
-  }
+  height: 20rem;
+  // @include breakpoint(0) {
+  //   // margin: 0 auto;
+  //   height: 20em;
+  //   // min-height: 16.25rem;
+  // }
+  // @include breakpoint($sm) {
+  //   // margin: 0 auto;
+  //   height: auto;
+  //   min-height: 16.25rem;
+  // }
 
 }
 
@@ -63,6 +69,7 @@
 
 .hero__wrap__home {
   @extend .container;
+  position: relative;
 
   color: rgba(255, 255, 255, 0.8);
   z-index: 1;
@@ -75,7 +82,7 @@
     }
   }
   @include breakpoint($md) {
-    padding-top: 14px;
+    padding-top: 40px;
     .hero__title {
       font-size: 1.9em;
       line-height: 32px;
@@ -88,6 +95,14 @@
       line-height: 34px;
     }
   }
+  // @include breakpoint($xl) {
+  //   padding-top: 44px;
+  //   max-width: 1400px;
+  //   .hero__title {
+  //     font-size: 2.2em;
+  //     line-height: 34px;
+  //   }
+  // }
   .hero__title {
     color: white;
     margin-bottom: 14px;
