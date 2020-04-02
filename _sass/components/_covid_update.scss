@@ -73,13 +73,13 @@
     // display: inline-block;
     display: flex;
     align-items: center;
-    // justify-content: space-between;
+    justify-content: space-between;
     svg {
       margin-right: 5px;
       margin-bottom: -3px;
     }
-    i {
-      margin-left: 30px;
+    .date-update {
+      // margin-left: 30px;
       font-size: 14px;
       font-weight: 300;
     }
