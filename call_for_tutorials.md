@@ -9,6 +9,18 @@ summary: The Call for Tutorials of the 21th International Society for Music Info
 
 ISMIR2020 is pleased to invite proposals for tutorials to be given in conjunction with the conference. Tutorials take place at the start of the ISMIR conference, and this year will be held on Sunday, October 11, 2020 in Montréal. Each tutorial is allocated 3 hours to concentrate on a single topic; tutorials take place in parallel sessions. The tutorials are presented either at an introductory level or in depth, and are intended to provide an informative and stimulating coverage of current topics in MIR and beyond. 
 
+## Important Dates
+
+Time zone : [Anywhere On Earth (AOE)](https://www.timeanddate.com/time/zones/aoe)
+
+Submission: May 22, 2020
+
+Notification of Acceptance: June 15, 2020
+
+There will be no **further extension** to the submission deadlines.
+
+## Submission Guidelines
+
 Tutorial proposals should consist of a 2–4 page abstract including the following:
 
 - Title
@@ -19,7 +31,7 @@ Tutorial proposals should consist of a 2–4 page abstract including the followi
 - Short biography of the presenters
 - Any special requirements
 
-The proposals should be submitted as a PDF attachment via email to [ismir2020-tutorials@ismir.net](mailto:ismir2020-tutorials@ismir.net) by April 30, 2020. Acceptance/rejection decisions will be made by the ISMIR2020 Tutorial Chairs, and notifications will be made by May 31, 2020. The decision will depend on the following criteria:
+The proposals should be submitted as a PDF attachment via email to [ismir2020-tutorials@ismir.net](mailto:ismir2020-tutorials@ismir.net) by May 22, 2020. Acceptance/rejection decisions will be made by the ISMIR2020 Tutorial Chairs, and notifications will be made by June 15, 2020. The decision will depend on the following criteria:
 
 - Relevance (i.e., of interest to the whole community or only a segment thereof)
 - Suitability to generally knowledgeable students in MIR rather than specialists
