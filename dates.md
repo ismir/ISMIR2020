@@ -22,9 +22,9 @@ permalink: /dates/
 
 <br>
 
-| Call for Tutorials           | 25 February 2020    |
-| Tutorials submission         | 30 April 2020       |
-| Tutorials notification       | 31 May 2020         |
+| Call for Tutorials           | Accepting submissions |
+| Tutorials submission         | ~~30 April 2020~~     | 22 May 2020       |
+| Tutorials notification       | ~~31 May 2020~~       | 15 June 2020      |
 
 <br>
 
