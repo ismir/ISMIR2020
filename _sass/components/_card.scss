@@ -149,10 +149,12 @@
     height: auto;
   }
   @include breakpoint($lg) {
-    height: 100%;
+    // height: 100%;
   }
   // min-height: 720px;
-
+  h3 {
+    color: #313237;
+  }
   border-radius: 4px 4px;
   overflow: hidden;
   background-color: $bg-color;
@@ -176,7 +178,7 @@
       height: auto;
     }
     @include breakpoint($md) {
-      height: 1000px;
+      // height: 1000px;
     }
     @include breakpoint($lg) {
       height: auto;
@@ -320,11 +322,14 @@
         margin-bottom: 0;
       }
       @include breakpoint($md) {
-        height: calc(50% - 1.125rem);
+        height: calc(30% - 1.125rem);
       }
       @include breakpoint($lg) {
         width: 48%;
-        height: 100%;
+        height: 45%;
+      }
+      @include breakpoint($xl) {
+        height: 55%;
       }
       .post-card__thumb {
         @include breakpoint($xs) {
@@ -432,13 +437,16 @@
     height: 300px;
   }
   @include breakpoint($sm) {
-
+    // height: calc(20% - 1.125rem);
   }
   @include breakpoint($md) {
-    height: calc(33% - 1.125rem);
+    height: calc(20% - 1.125rem);
   }
   @include breakpoint($lg) {
-    height: calc(40% - 1.125rem);
+    height: calc(25% - 1.125rem);
+  }
+  @include breakpoint($xl) {
+    height: calc(30% - 1.125rem);
   }
   // height: calc(50% - 1.125rem);
   width: 100%;

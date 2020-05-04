@@ -37,7 +37,7 @@ Claire Arthur
 Katherine Kinnaird  
 
 **Unconference**  
-Eric Humphrey  
+T.B.D.  
 
 **Sponsorship**  
 Elena Georgieva  

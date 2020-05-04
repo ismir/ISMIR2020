@@ -24,6 +24,7 @@ navigation: # Navigation links
   - {name: 'Events', link: '/events'}
   - {name: 'Organizers', link: '/organizers'}
   - {name: 'Call for Papers', link: '/cfp'}
+  - {name: 'Call for Music', link: '/c4m'}
   - {name: 'Call for Tutorials', link: '/call_for_tutorials'}
   - {name: 'Montréal', link: '/Montreal'}
 
