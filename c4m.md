@@ -53,9 +53,9 @@ Questions can be directed to [ismir2020-music@ismir.net](mailto:ismir2020-music@
 
 ## Important Dates
 
-- Submission deadline: 29 May 2020
-- Notification of acceptance: 15 July 2020
-- Provision of detailed performance materials: 15 August 2020
+- Submission deadline: 26 June 2020
+- Notification of acceptance: 31 July 2020
+- Provision of detailed performance materials: 21 August 2020
 - Concert date: 13 October 2020
 - Conference dates: 11-15 October 2020
 

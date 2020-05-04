@@ -16,9 +16,9 @@ permalink: /dates/
 
 <br>
 
-| Call for Music              | 15 March 2020       |
-| Music submission            | 29 May 2020         |
-| Music notification          | 15 July 2020        |
+| Call for Music              | 15 March 2020         |
+| Music submission            | ~~29 May 2020~~       | 26 June 2020       |
+| Music notification          | ~~15 July 2020~~      | 31 July 2020       |
 
 <br>
 
