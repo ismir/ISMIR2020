@@ -19,7 +19,7 @@ social:
 
 # THEME SETTINGS
 navigation: # Navigation links
-  - {name: 'Home', link: '/'}
+  # - {name: 'Home', link: '/'}
   - {name: 'Dates', link: '/dates'}
   - {name: 'Events', link: '/events'}
   - {name: 'Organizers', link: '/organizers'}
@@ -27,8 +27,9 @@ navigation: # Navigation links
   - {name: 'Call for Music', link: '/c4m'}
   - {name: 'Call for Tutorials', link: '/call_for_tutorials'}
   - {name: 'Montréal', link: '/Montreal'}
+  - {name: 'Call for Sponsors', link: '/sponsors'}
 
-  
+
 tagline: >
   Modern Jekyll theme focused on speed performance &amp; SEO best practices
 

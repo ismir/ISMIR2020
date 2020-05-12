@@ -16,6 +16,7 @@
     display: flex;
     align-items: center;
     border-bottom: 0;
+		font-size: 0.95em;
   }
 
   &.fix-nav {
@@ -178,7 +179,7 @@
 
   .header__link {
     position: relative;
-    padding: .938rem 1rem;
+    padding: .938rem 0.7rem;
     border: 0;
     height: 100%;
 
