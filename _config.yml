@@ -26,8 +26,8 @@ navigation: # Navigation links
   - {name: 'Call for Papers', link: '/cfp'}
   - {name: 'Call for Music', link: '/c4m'}
   - {name: 'Call for Tutorials', link: '/call_for_tutorials'}
-  - {name: 'Montréal', link: '/Montreal'}
   - {name: 'Call for Sponsors', link: '/sponsors'}
+  - {name: 'Montréal', link: '/Montreal'}
 
 
 tagline: >
