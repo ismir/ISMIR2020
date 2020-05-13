@@ -180,7 +180,7 @@ Sponsors are encouraged to support a diverse and inclusive MIR community by cont
 
 <div class="Rtable Rtable--4cols Rtable--collapse">
 
-  <div style="order:0;" class="Rtable-cell Rtable-cell--head wimir"><h4>WiMIR Benefactor</h4></div>
+  <div style="order:0;" class="Rtable-cell Rtable-cell--head wimir"><h4>Benefactor</h4></div>
   <div style="order:1;" class="Rtable-cell">15,000 CAD</div>
   <div style="order:2;" class="Rtable-cell">Social media coverage</div>
   <div style="order:3;" class="Rtable-cell">Large logo in dedicated WiMIR program elements</div>
@@ -188,7 +188,7 @@ Sponsors are encouraged to support a diverse and inclusive MIR community by cont
   <div style="order:5;" class="Rtable-cell">Workshop table</div>
   <div style="order:6;" class="Rtable-cell">Blog post</div>
 
-  <div style="order:0;" class="Rtable-cell Rtable-cell--head wimir"><h4>WiMIR Patron</h4></div>
+  <div style="order:0;" class="Rtable-cell Rtable-cell--head wimir"><h4>Patron</h4></div>
   <div style="order:1;" class="Rtable-cell">7,500 CAD</div>
   <div style="order:2;" class="Rtable-cell">Social media coverage</div>
   <div style="order:3;" class="Rtable-cell">Medium logo in dedicated WiMIR program elements</div>
@@ -196,7 +196,7 @@ Sponsors are encouraged to support a diverse and inclusive MIR community by cont
   <div style="order:5;" class="Rtable-cell">Workshop table</div>
   <div style="order:6;" class="Rtable-cell empty">--</div>
 
-  <div style="order:0;" class="Rtable-cell Rtable-cell--head wimir"><h4>WiMIR Contributor</h4></div>
+  <div style="order:0;" class="Rtable-cell Rtable-cell--head wimir"><h4>Contributor</h4></div>
   <div style="order:1;" class="Rtable-cell">3,750 CAD</div>
   <div style="order:2;" class="Rtable-cell">Social media coverage</div>
   <div style="order:3;" class="Rtable-cell">Small logo in dedicated WiMIR program elements</div>
@@ -204,7 +204,7 @@ Sponsors are encouraged to support a diverse and inclusive MIR community by cont
   <div style="order:5;" class="Rtable-cell empty">--</div>
   <div style="order:6;" class="Rtable-cell empty">--</div>
 
-  <div style="order:0;" class="Rtable-cell Rtable-cell--head wimir"><h4>WiMIR Supporter</h4></div>
+  <div style="order:0;" class="Rtable-cell Rtable-cell--head wimir"><h4>Supporter</h4></div>
   <div style="order:1;" class="Rtable-cell">1,500 CAD</div>
   <div style="order:2;" class="Rtable-cell">Social media coverage</div>
   <div style="order:3;" class="Rtable-cell">Miniature logo in dedicated WiMIR program elements</div>
