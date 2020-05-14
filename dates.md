@@ -54,7 +54,7 @@ permalink: /dates/
 <br>
 
 | [WiMIR Workshop](https://wimir.wordpress.com/)               | 10 October 2020     |
-| WoRMS                         | 10 October 2020     |
+| WoRMS                         | **Cancelled**     |
 | [DLfM](https://dl.acm.org/conference/dlfm)                          | 16 October 2020     |
 | [NLP4MusA](https://sites.google.com/view/nlp4musa)                      | 16 October 2020     |
 | HAMR                          | 16--17 October 2020 |
