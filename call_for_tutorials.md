@@ -13,11 +13,11 @@ ISMIR2020 is pleased to invite proposals for tutorials to be given in conjunctio
 
 Time zone : [Anywhere On Earth (AOE)](https://www.timeanddate.com/time/zones/aoe)
 
-Submission: May 22, 2020
+Initial submission: May 22, 2020
 
-Notification of Acceptance: June 15, 2020
+Final submission: ~~May 22, 2020~~ May 29, 2020
 
-There will be no **further extension** to the submission deadlines.
+Notification of Acceptance: ~~June 15, 2020~~ June 22, 2020
 
 ## Submission Guidelines
 
@@ -31,7 +31,7 @@ Tutorial proposals should consist of a 2–4 page abstract including the followi
 - Short biography of the presenters
 - Any special requirements
 
-The proposals should be submitted as a PDF attachment via email to [ismir2020-tutorials@ismir.net](mailto:ismir2020-tutorials@ismir.net) by May 22, 2020. Acceptance/rejection decisions will be made by the ISMIR2020 Tutorial Chairs, and notifications will be made by June 15, 2020. The decision will depend on the following criteria:
+Initial proposals should be submitted as a PDF attachment via email to [ismir2020-tutorials@ismir.net](mailto:ismir2020-tutorials@ismir.net) by May 22, 2020. After that, authors are welcome to submit revised submissions (but not initiate new submissions) by May 29, 2020. Acceptance/rejection decisions will be made by the ISMIR2020 Tutorial Chairs, and notifications will be made by June 22, 2020. The decision will depend on the following criteria:
 
 - Relevance (i.e., of interest to the whole community or only a segment thereof)
 - Suitability to generally knowledgeable students in MIR rather than specialists
