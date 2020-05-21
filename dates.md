@@ -23,8 +23,9 @@ permalink: /dates/
 <br>
 
 | Call for Tutorials           | Accepting submissions |
-| Tutorials submission         | ~~30 April 2020~~     | 22 May 2020       |
-| Tutorials notification       | ~~31 May 2020~~       | 15 June 2020      |
+| Initial submission           | ~~30 April 2020~~     | 22 May 2020       |
+| Final submission             | ~~22 May 2020~~       | 29 May 2020       |
+| Tutorials notification       | ~~15 June 2020~~      | 22 June 2020      |
 
 <br>
 
