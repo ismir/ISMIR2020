@@ -61,7 +61,7 @@
   &__inner {
     display: block;
     // position: relative;
-    padding: 1.875rem 1.25rem;
+    padding: 1.25rem 1.25rem;
     width: 100%;
     color: $grey;
     border-bottom: 0;
@@ -255,7 +255,7 @@
   // flex-wrap: wrap
   .small-cards {
     display: flex;
-
+    margin-bottom: 2.25rem;
     // justify-content: space-between;
     @include breakpoint($xs) {
       flex-direction: column;
@@ -265,11 +265,11 @@
     }
     @include breakpoint($md) {
       flex-direction: column;
-      height: calc(67% - 1.125rem);
+      // height: calc(67% - 1.125rem);
     }
     @include breakpoint($lg) {
       flex-direction: row;
-      height: calc(60% - 1.125rem);
+      // height: calc(60% - 1.125rem);
     }
     // @include breakpoint($) {
     //   flex-direction: row;
@@ -322,14 +322,14 @@
         margin-bottom: 0;
       }
       @include breakpoint($md) {
-        height: calc(30% - 1.125rem);
+        // height: calc(30% - 1.125rem);
       }
       @include breakpoint($lg) {
         width: 48%;
-        height: 45%;
+        // height: 45%;
       }
       @include breakpoint($xl) {
-        height: 55%;
+        // height: 55%;
       }
       .post-card__thumb {
         @include breakpoint($xs) {
@@ -524,4 +524,56 @@
 .post-card:hover a .post-card__thumb img {
   -webkit-transform: scale(1.08);
   transform: scale(1.08);
+}
+
+.sponsors-card {
+  // display: flex;
+  // flex-direction: column;
+  background-color: white;
+  border-radius: 4px;
+  .post-card__inner {
+    div {
+      display:flex;
+      margin-top: 10px;
+      margin-bottom: 20px;
+    }
+    h3 {
+      display: inline-block;
+      padding: 10px;
+      color: white;
+      border-radius: 4px;
+      &.platinum {
+        background-color: #d7d7d7;
+      }
+      &.gold {
+        background-color: #c9b037;
+      }
+      &.silver {
+        background-color: #b4b4b4;
+      }
+      &.bronze {
+        background-color: #ad8a56;
+      }
+    }
+    .platinum-wrapper {
+      img {
+        max-width: 220px;
+      }
+    }
+    .gold-wrapper {
+      img {
+        max-width: 180px;
+      }
+    }
+    .silver-wrapper {
+      img {
+        max-width: 140px;
+      }
+    }
+    .bronze-wrapper {
+      img {
+        max-width: 100px;
+      }
+    }
+  }
 }
