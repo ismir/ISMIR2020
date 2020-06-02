@@ -554,7 +554,7 @@
         color: hsla(0,0%,20%,1);
       }
       &.gold {
-        // background-color: #c9b037;
+        background-color: #c9b037;
         // background-image: -webkit-repeating-linear-gradient(left, hsla(0,0%,100%,0) 0%, hsla(0,0%,100%,0)   6%, hsla(0,0%,100%, .1) 7.5%),
         //   -webkit-repeating-linear-gradient(left, hsla(0,0%,  0%,0) 0%, hsla(0,0%,  0%,0)   4%, hsla(0,0%,  0%,.03) 4.5%),
         //   -webkit-repeating-linear-gradient(left, hsla(0,0%,100%,0) 0%, hsla(0,0%,100%,0) 1.2%, hsla(0,0%,100%,.15) 2.2%),
@@ -567,10 +567,10 @@
         // color: hsla(0,0%,20%,1);
         // background: radial-gradient(ellipse farthest-corner at right bottom, #FEDB37 0%, #FDB931 8%, #9f7928 30%, #8A6E2F 40%, transparent 80%),
         //         radial-gradient(ellipse farthest-corner at left top, #FFFFFF 0%, #FFFFAC 8%, #D1B464 25%, #5d4a1f 62.5%, #5d4a1f 100%);
-        background: #FDE08D;
-      	background: -webkit-linear-gradient(top, #DF9F28, #FDE08D, #DF9F28);
-    	  background: linear-gradient(top, #DF9F28, #FDE08D, #DF9F28);
-        color: hsla(0,0%,20%,1);
+        // background: #FDE08D;
+      	// background: -webkit-linear-gradient(top, #DF9F28, #FDE08D, #DF9F28);
+    	  // background: linear-gradient(top, #DF9F28, #FDE08D, #DF9F28);
+        // color: hsla(0,0%,20%,1);
       }
       &.silver {
         background-color: #b4b4b4;
