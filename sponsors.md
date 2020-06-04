@@ -16,9 +16,9 @@ ISMIR 2020 offers sponsorship opportunities at the Platinum, Gold, Silver, and B
   <div style="order:3;" class="Rtable-cell">3 promotional items</div>
   <div style="order:4;" class="Rtable-cell">5 full conference registrations</div>
   <div style="order:5;" class="Rtable-cell">Poster and table at the main conference</div>
-  <div style="order:6;" class="Rtable-cell">Virtual booth</div>
+  <div style="order:6;" class="Rtable-cell"><i>Virtual booth</i> at the main ISMIR 2020 website</div>
   <div style="order:7;" class="Rtable-cell">Free stand at the <i>Meetup With Industry</i> Event</div>
-  <div style="order:8;" class="Rtable-cell">Named travel grant in the sponsor's name</div>
+  <div style="order:8;" class="Rtable-cell">Named student grant in the sponsor's name</div>
 
   <div style="order:0;" class="Rtable-cell Rtable-cell--head gold"><h4>Gold</h4></div>
   <div style="order:1;" class="Rtable-cell">7,500 CAD</div>
@@ -26,7 +26,7 @@ ISMIR 2020 offers sponsorship opportunities at the Platinum, Gold, Silver, and B
   <div style="order:3;" class="Rtable-cell">3 promotional items</div>
   <div style="order:4;" class="Rtable-cell">3 full conference registrations</div>
   <div style="order:5;" class="Rtable-cell">Poster and table at the main conference</div>
-  <div style="order:6;" class="Rtable-cell">Virtual booth</div>
+  <div style="order:6;" class="Rtable-cell"><i>Virtual booth</i> at the main ISMIR 2020 website</div>
   <div style="order:7;" class="Rtable-cell">Free stand at the <i>Meetup With Industry</i> Event</div>
   <div style="order:8;" class="empty Rtable-cell">--</div>
 
