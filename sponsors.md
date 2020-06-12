@@ -175,6 +175,8 @@ ISMIR 2020 offers sponsorship opportunities at the Platinum, Gold, Silver, and B
 
 <br>
 
+For more information, please contact [ismir2020-sponsorship@ismir.net](mailto:ismir2020-sponsorship@ismir.net)
+
 # Women in MIR (WiMIR) Sponsorship Opportunities
 
 
