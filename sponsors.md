@@ -173,9 +173,9 @@ ISMIR 2020 offers sponsorship opportunities at the Platinum, Gold, Silver, and B
 | Free stand at the *Meetup With Industry* Event | Free stand at the *Meetup With Industry* Event | -- | -- |
 | Named travel grant in the sponsor's name | -- | -- | -- | -->
 
-<br>
-
 For more information, please contact [ismir2020-sponsorship@ismir.net](mailto:ismir2020-sponsorship@ismir.net)
+
+<br>
 
 # Women in MIR (WiMIR) Sponsorship Opportunities
 
