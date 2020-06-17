@@ -211,7 +211,7 @@ Sponsors are encouraged to support a diverse and inclusive MIR community by cont
   <div style="order:6;" class="Rtable-cell empty">--</div>
 
   <div style="order:0;" class="Rtable-cell Rtable-cell--head wimir"><h4>Supporter</h4></div>
-  <div style="order:1;" class="Rtable-cell">1,500 CAD</div>
+  <div style="order:1;" class="Rtable-cell">1,000 CAD</div>
   <div style="order:2;" class="Rtable-cell">Social media coverage</div>
   <div style="order:3;" class="Rtable-cell">Miniature logo in dedicated WiMIR program elements</div>
   <div style="order:4;" class="Rtable-cell">Printed workshop materials</div>
