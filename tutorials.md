@@ -4,7 +4,7 @@ title: Tutorials
 permalink: /tutorials/
 ---
 
-# Session A
+# Morning Session
 
 ## Tutorial A1
 
@@ -76,16 +76,16 @@ Our tutorial is aimed at researchers and practitioners that are familiar with au
 
 **Justin Salamon** is a research scientist and member of the Audio Research Group at Adobe Research in San Francisco. Previously he was a senior research scientist at the Music and Audio Research Laboratory and Center for Urban Science and Progress of New York University. His research focuses on the application of machine learning and signal processing to audio & video, with applications in machine listening, representation learning & self-supervision, music information retrieval, bioacoustics, environmental sound analysis and open-source software & data. He is the lead developer of Scaper, a library for soundscape generation & augmentation.
 
-# Session B
+# Afternoon Session
 
-## Tutorial B1
+<!-- ## Tutorial B1
 
 <div class="tutorial-subtitle">
   <div>Sound Morphing: At the Crossroads of Perception and Creativity in MIR</div>
   <div>Marcelo Caetano and Charalampos Saitis</div>
-</div>
+</div> -->
 
-## Tutorial B2
+## Tutorial B1
 
 <div class="tutorial-subtitle">
   <div>Version Identification in the 20s</div>
@@ -108,7 +108,7 @@ We will start the tutorial by explaining common input representations and featur
 
 **Joan Serrà** is a staff researcher with Dolby Labs in Barcelona since 2019, where he works on deep learning and audio processing. He did his MSc (2007) and PhD (2011) in automatic version identification at the Music Technology Group of Universitat Pompeu Fabra. He also did a postdoc in artificial intelligence at IIIA-CSIC (2011–2015). After that, he was a machine learning researcher at Telefónica R&D (2015–2019). He has had research stays at the Max Planck Institute for the Physics of Complex Systems (2010) and the Max Planck Institute for Computer Science (2011). He has been involved in more than 10 research projects, funded by National and European institutions, and co-authored over 100 publications, many of them highly cited and in top-tier venues, including NeurIPS, ICLR, ICML, InterSpeech, ICASSP, and ISMIR.
 
-## Tutorial B3
+## Tutorial B2
 
 <div class="tutorial-subtitle">
   <div>Prototyping and Scaling Audio Research with Klio</div>
