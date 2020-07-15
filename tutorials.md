@@ -4,7 +4,7 @@ title: Tutorials
 permalink: /tutorials/
 ---
 
-# Morning Session
+# Session A
 
 ## Tutorial A1
 
@@ -76,7 +76,7 @@ Our tutorial is aimed at researchers and practitioners that are familiar with au
 
 **Justin Salamon** is a research scientist and member of the Audio Research Group at Adobe Research in San Francisco. Previously he was a senior research scientist at the Music and Audio Research Laboratory and Center for Urban Science and Progress of New York University. His research focuses on the application of machine learning and signal processing to audio & video, with applications in machine listening, representation learning & self-supervision, music information retrieval, bioacoustics, environmental sound analysis and open-source software & data. He is the lead developer of Scaper, a library for soundscape generation & augmentation.
 
-# Afternoon Session
+# Session B
 
 <!-- ## Tutorial B1
 
