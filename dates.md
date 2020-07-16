@@ -34,7 +34,7 @@ permalink: /dates/
 
 <br>
 
-| Tutorials                     | 11 October 2020          |
+| [Tutorials]({{ site.baseurl }}/tutorials/)                     | 11 October 2020          |
 | Scientific Program            | 12--15 October 2020 |
 
 <br>
