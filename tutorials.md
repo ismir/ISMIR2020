@@ -49,32 +49,26 @@ Metric learning is a paradigm of representation learning, in which proximity bet
 ## Tutorial A3
 
 <div class="tutorial-subtitle">
-  <div>Open-Source Tools & Data for Music Source Separation: A Practical Guide for the MIR Practitioner</div>
-  <div>Ethan Manilow, Prem Seetharaman, Justin Salamon</div>
+  <div>Prototyping and Scaling Audio Research with Klio</div>
+  <div>Fallon Chen and Lynn Root</div>
 </div>
 
 #### _Abstract_
 
-Musical source separation has become increasingly effective in recent years. As such, applications of music source separation have the potential to touch many aspects of MIR research. However, from a user’s perspective, either in doing source separation research from scratch or in applying source separation to other tasks (e.g. polyphonic music transcription), there are still significant roadblocks. Code and data are released on a paper-by-paper basis, making it difficult to compare, use and extend existing techniques. This limits the usefulness of source separation for researchers not actively steeped in its many nuances, and hinders its applicability to broader MIR research.
+This tutorial will walk attendees through the use of a Python framework called klio that makes use of the Apache Beam Python SDK to parallelize the execution of audio processing algorithms over a large dataset. Apache Beam is a portable and extensible programming model that unifies distributed batch and streaming processing. It manages the I/O and parallelized execution needed for large-scale data processing. Any audio processing algorithm that can be executed by a Python process and has dependencies that can be installed on machines supported by Apache Beam runners can be run with klio. Audio processing algorithms that have been added to a klio data processing job can be run locally on the practitioner's machine, before being run on large-scale data processing systems like Google Cloud Dataflow. This enables the practitioner to make quick local changes to their algorithm and test it on a few files before deploying a longer running job on more files.
 
-In this tutorial, we present a set of complementary, easy-to-use, open-source tools and datasets for source separation research, evaluation, and deployment. We show how they interlock with one another, and how they can be used in concert to structure source separation within a project for research or deployment. Finally, we propose a generic and well-tested project structure for efficiently doing modern source separation research, from sweeping over hyperparameters, to setting up competitive baselines, to augmenting your datasets.
+The intended audience of this tutorial are audio processing practitioners who have wrestled with the complexity of iterating upon and coordinating the execution of algorithms that both consume and produce large audio datasets. klio provides best-practice standards and abstractions, encoded in its Python-based command line interface and API, that help audio practitioners prototype, organize and scale their work.
 
-Participants of this tutorial will leave with:
+During the tutorial, attendees will receive:
 
-1. A practical overview of source separation including history and current research trends.
-2. The ability to make educated decisions about how to best include source separation in their workflow.
-3. The ability to select the proper separation algorithm or a pre-trained model for their research.
-4. The ability to effectively train a custom model for their research using open-source tools.
-
-Our tutorial is aimed at researchers and practitioners that are familiar with audio and machine learning but have little or no experience with source separation. Our primary resources will be the following open-source/data projects: [nussl](https://github.com/nussl/nussl), [scaper](https://github.com/justinsalamon/scaper), [Slakh2100](http://www.slakh.com/), and [MUSDB18](https://sigsep.github.io/datasets/musdb.html). References to additional tools and datasets (including for non-music audio) will be provided.
+* An overview of klio that establishes core concepts and features
+* Guidance through building a klio audio processing graph and running it on an audio dataset
 
 #### _Presenters_
 
-**Ethan Manilow** is a PhD candidate in Computer Science at Northwestern University under advisor Prof. Bryan Pardo. His research lies in the intersection of signal processing and machine learning, with a focus on source separation, automatic music transcription, and open source datasets and applications. Previously he was an intern at Mitsubishi Electric Research Labs (MERL) and at Google Magenta. He is one of the lead developers of nussl, an open source audio separation library.
+**Fallon Chen** is a Senior Engineer at Spotify, where she builds libraries and tools for audio processing. She holds a M.S. in Computer Science from the University of California, San Diego, and a B.S. in Computer Science from the University of California, Davis. Her favorite genre is industrial techno.
 
-**Prem Seetharaman** is a research scientist at Descript in San Francisco. Previously, he was a teaching fellow at Northwestern University, where he received his PhD in 2019 advised by Bryan Pardo. The objective of his research is to create machines that can understand the auditory world. He works in computer audition, machine learning, and human computer interaction. He is one of the lead developers of nussl, an open source audio separation library, and Scaper, a library for soundscape generation & augmentation.
-
-**Justin Salamon** is a research scientist and member of the Audio Research Group at Adobe Research in San Francisco. Previously he was a senior research scientist at the Music and Audio Research Laboratory and Center for Urban Science and Progress of New York University. His research focuses on the application of machine learning and signal processing to audio & video, with applications in machine listening, representation learning & self-supervision, music information retrieval, bioacoustics, environmental sound analysis and open-source software & data. He is the lead developer of Scaper, a library for soundscape generation & augmentation.
+**Lynn Root** is a Staff Engineer at Spotify and resident FOSS evangelist. She is a seasoned speaker on building and maintaining distributed systems, and maintains Spotify's audio processing framework. Lynn is a global leader of diversity in the Python community, and the former Vice Chair of the Python Software Foundation Board of Directors. When her hands are not on a keyboard, they are usually holding a bass guitar.
 
 # Session B
 
@@ -111,23 +105,29 @@ We will start the tutorial by explaining common input representations and featur
 ## Tutorial B2
 
 <div class="tutorial-subtitle">
-  <div>Prototyping and Scaling Audio Research with Klio</div>
-  <div>Fallon Chen and Lynn Root</div>
+  <div>Open-Source Tools & Data for Music Source Separation: A Practical Guide for the MIR Practitioner</div>
+  <div>Ethan Manilow, Prem Seetharaman, Justin Salamon</div>
 </div>
 
 #### _Abstract_
 
-This tutorial will walk attendees through the use of a Python framework called klio that makes use of the Apache Beam Python SDK to parallelize the execution of audio processing algorithms over a large dataset. Apache Beam is a portable and extensible programming model that unifies distributed batch and streaming processing. It manages the I/O and parallelized execution needed for large-scale data processing. Any audio processing algorithm that can be executed by a Python process and has dependencies that can be installed on machines supported by Apache Beam runners can be run with klio. Audio processing algorithms that have been added to a klio data processing job can be run locally on the practitioner's machine, before being run on large-scale data processing systems like Google Cloud Dataflow. This enables the practitioner to make quick local changes to their algorithm and test it on a few files before deploying a longer running job on more files.
+Musical source separation has become increasingly effective in recent years. As such, applications of music source separation have the potential to touch many aspects of MIR research. However, from a user’s perspective, either in doing source separation research from scratch or in applying source separation to other tasks (e.g. polyphonic music transcription), there are still significant roadblocks. Code and data are released on a paper-by-paper basis, making it difficult to compare, use and extend existing techniques. This limits the usefulness of source separation for researchers not actively steeped in its many nuances, and hinders its applicability to broader MIR research.
 
-The intended audience of this tutorial are audio processing practitioners who have wrestled with the complexity of iterating upon and coordinating the execution of algorithms that both consume and produce large audio datasets. klio provides best-practice standards and abstractions, encoded in its Python-based command line interface and API, that help audio practitioners prototype, organize and scale their work.
+In this tutorial, we present a set of complementary, easy-to-use, open-source tools and datasets for source separation research, evaluation, and deployment. We show how they interlock with one another, and how they can be used in concert to structure source separation within a project for research or deployment. Finally, we propose a generic and well-tested project structure for efficiently doing modern source separation research, from sweeping over hyperparameters, to setting up competitive baselines, to augmenting your datasets.
 
-During the tutorial, attendees will receive:
+Participants of this tutorial will leave with:
 
-* An overview of klio that establishes core concepts and features
-* Guidance through building a klio audio processing graph and running it on an audio dataset
+1. A practical overview of source separation including history and current research trends.
+2. The ability to make educated decisions about how to best include source separation in their workflow.
+3. The ability to select the proper separation algorithm or a pre-trained model for their research.
+4. The ability to effectively train a custom model for their research using open-source tools.
+
+Our tutorial is aimed at researchers and practitioners that are familiar with audio and machine learning but have little or no experience with source separation. Our primary resources will be the following open-source/data projects: [nussl](https://github.com/nussl/nussl), [scaper](https://github.com/justinsalamon/scaper), [Slakh2100](http://www.slakh.com/), and [MUSDB18](https://sigsep.github.io/datasets/musdb.html). References to additional tools and datasets (including for non-music audio) will be provided.
 
 #### _Presenters_
 
-**Fallon Chen** is a Senior Engineer at Spotify, where she builds libraries and tools for audio processing. She holds a M.S. in Computer Science from the University of California, San Diego, and a B.S. in Computer Science from the University of California, Davis. Her favorite genre is industrial techno.
+**Ethan Manilow** is a PhD candidate in Computer Science at Northwestern University under advisor Prof. Bryan Pardo. His research lies in the intersection of signal processing and machine learning, with a focus on source separation, automatic music transcription, and open source datasets and applications. Previously he was an intern at Mitsubishi Electric Research Labs (MERL) and at Google Magenta. He is one of the lead developers of nussl, an open source audio separation library.
 
-**Lynn Root** is a Staff Engineer at Spotify and resident FOSS evangelist. She is a seasoned speaker on building and maintaining distributed systems, and maintains Spotify's audio processing framework. Lynn is a global leader of diversity in the Python community, and the former Vice Chair of the Python Software Foundation Board of Directors. When her hands are not on a keyboard, they are usually holding a bass guitar.
+**Prem Seetharaman** is a research scientist at Descript in San Francisco. Previously, he was a teaching fellow at Northwestern University, where he received his PhD in 2019 advised by Bryan Pardo. The objective of his research is to create machines that can understand the auditory world. He works in computer audition, machine learning, and human computer interaction. He is one of the lead developers of nussl, an open source audio separation library, and Scaper, a library for soundscape generation & augmentation.
+
+**Justin Salamon** is a research scientist and member of the Audio Research Group at Adobe Research in San Francisco. Previously he was a senior research scientist at the Music and Audio Research Laboratory and Center for Urban Science and Progress of New York University. His research focuses on the application of machine learning and signal processing to audio & video, with applications in machine listening, representation learning & self-supervision, music information retrieval, bioacoustics, environmental sound analysis and open-source software & data. He is the lead developer of Scaper, a library for soundscape generation & augmentation.
