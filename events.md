@@ -12,4 +12,6 @@ The ISMIR Conference provides a meeting place for the discussion of MIR-related 
 ISMIR is a non-profit organization which, among other things, oversees the organization of the ISMIR Conference.
 
 ### ONLINE MEETING
-The scientific program of ISMIR will be hosted online. More details to come soon.
+The scientific program of ISMIR will be hosted online.
+
+More details to come soon.
