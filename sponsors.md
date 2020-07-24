@@ -37,7 +37,7 @@ ISMIR 2020 offers sponsorship opportunities at the Platinum, Gold, Silver, and B
   <div style="order:4;" class="Rtable-cell">1 full conference registration</div>
   <div style="order:5;" class="Rtable-cell">Virtual poster and a Slack channel at the main conference</div>
   <div style="order:6;" class="empty Rtable-cell">--</div>
-  <div style="order:7;" class="empty Rtable-cell">Access to a shared zoom room at the Meetup with Industry Event</div>
+  <div style="order:7;" class="Rtable-cell">Access to a shared zoom room at the Meetup with Industry Event</div>
   <div style="order:8;" class="empty Rtable-cell">--</div>
 
   <div style="order:0;" class="Rtable-cell Rtable-cell--head bronze"><h4>Bronze</h4></div>
@@ -47,7 +47,7 @@ ISMIR 2020 offers sponsorship opportunities at the Platinum, Gold, Silver, and B
   <div style="order:4;" class="empty Rtable-cell">--</div>
   <div style="order:5;" class="empty Rtable-cell">--</div>
   <div style="order:6;" class="empty Rtable-cell">--</div>
-  <div style="order:7;" class="empty Rtable-cell">Access to a shared zoom room at the Meetup with Industry Event</div>
+  <div style="order:7;" class="Rtable-cell">Access to a shared zoom room at the Meetup with Industry Event</div>
   <div style="order:8;" class="empty Rtable-cell">--</div>
 
 </div>
