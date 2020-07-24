@@ -12,42 +12,42 @@ ISMIR 2020 offers sponsorship opportunities at the Platinum, Gold, Silver, and B
 
   <div style="order:0;" class="Rtable-cell Rtable-cell--head platinum"><h4>Platinum</h4></div>
   <div style="order:1;" class="Rtable-cell">15,000 CAD</div>
-  <div style="order:2;" class="Rtable-cell">Large logo and company name in conference brochures, banners, and website with hyperlink</div>
-  <div style="order:3;" class="Rtable-cell">3 promotional items</div>
+  <div style="order:2;" class="Rtable-cell">Large logo and company name in online program, banners in video background, and website with hyperlink</div>
+  <div style="order:3;" class="Rtable-cell">3 promotional items to be offered via online</div>
   <div style="order:4;" class="Rtable-cell">5 full conference registrations</div>
-  <div style="order:5;" class="Rtable-cell">Poster and table at the main conference</div>
+  <div style="order:5;" class="Rtable-cell">Virtual poster and a Slack channel at the main conference</div>
   <div style="order:6;" class="Rtable-cell"><i>Virtual booth</i> at the main ISMIR 2020 website</div>
-  <div style="order:7;" class="Rtable-cell">Free stand at the <i>Meetup With Industry</i> Event</div>
+  <div style="order:7;" class="Rtable-cell">Private zoom room at the Meetup With Industry Event</div>
   <div style="order:8;" class="Rtable-cell">Named student grant in the sponsor's name</div>
 
   <div style="order:0;" class="Rtable-cell Rtable-cell--head gold"><h4>Gold</h4></div>
   <div style="order:1;" class="Rtable-cell">7,500 CAD</div>
-  <div style="order:2;" class="Rtable-cell">Medium logo and company name in conference brochures, banners, and website with hyperlink</div>
-  <div style="order:3;" class="Rtable-cell">3 promotional items</div>
+  <div style="order:2;" class="Rtable-cell">Medium logo and company name in online program, banners in video background, and website with hyperlink</div>
+  <div style="order:3;" class="Rtable-cell">3 promotional items to be offered via online</div>
   <div style="order:4;" class="Rtable-cell">3 full conference registrations</div>
-  <div style="order:5;" class="Rtable-cell">Poster and table at the main conference</div>
+  <div style="order:5;" class="Rtable-cell">Virtual poster and a Slack channel at the main conference</div>
   <div style="order:6;" class="Rtable-cell"><i>Virtual booth</i> at the main ISMIR 2020 website</div>
-  <div style="order:7;" class="Rtable-cell">Free stand at the <i>Meetup With Industry</i> Event</div>
+  <div style="order:7;" class="Rtable-cell">Private zoom room at the Meetup With Industry Event</div>
   <div style="order:8;" class="empty Rtable-cell">--</div>
 
   <div style="order:0;" class="Rtable-cell Rtable-cell--head silver"><h4>Silver</h4></div>
   <div style="order:1;" class="Rtable-cell">3,750 CAD</div>
-  <div style="order:2;" class="Rtable-cell">Small logo and company name in conference brochures, banners, and website with hyperlink</div>
-  <div style="order:3;" class="Rtable-cell">1 promotional item</div>
+  <div style="order:2;" class="Rtable-cell">Small logo and company name in online program, banners in video background, and website with hyperlink</div>
+  <div style="order:3;" class="Rtable-cell">1 promotional item to be offered via online</div>
   <div style="order:4;" class="Rtable-cell">1 full conference registration</div>
-  <div style="order:5;" class="Rtable-cell">Poster and table at the main conference</div>
+  <div style="order:5;" class="Rtable-cell">Virtual poster and a Slack channel at the main conference</div>
   <div style="order:6;" class="empty Rtable-cell">--</div>
-  <div style="order:7;" class="empty Rtable-cell">--</div>
+  <div style="order:7;" class="empty Rtable-cell">Access to a shared zoom room at the Meetup with Industry Event</div>
   <div style="order:8;" class="empty Rtable-cell">--</div>
 
   <div style="order:0;" class="Rtable-cell Rtable-cell--head bronze"><h4>Bronze</h4></div>
   <div style="order:1;" class="Rtable-cell">1,500 CAD</div>
-  <div style="order:2;" class="Rtable-cell">Miniature logo and company name in conference brochures, banners, and website with hyperlink</div>
-  <div style="order:3;" class="Rtable-cell">1 promotional item</div>
+  <div style="order:2;" class="Rtable-cell">Miniature logo and company name in online program, banners in video background, and website with hyperlink</div>
+  <div style="order:3;" class="Rtable-cell">1 promotional item to be offered via online</div>
   <div style="order:4;" class="empty Rtable-cell">--</div>
   <div style="order:5;" class="empty Rtable-cell">--</div>
   <div style="order:6;" class="empty Rtable-cell">--</div>
-  <div style="order:7;" class="empty Rtable-cell">--</div>
+  <div style="order:7;" class="empty Rtable-cell">Access to a shared zoom room at the Meetup with Industry Event</div>
   <div style="order:8;" class="empty Rtable-cell">--</div>
 
 </div>
