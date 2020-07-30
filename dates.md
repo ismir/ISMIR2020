@@ -37,16 +37,6 @@ permalink: /dates/
 | [Tutorials]({{ site.baseurl }}/tutorials/)                     | 11 October 2020          |
 | Scientific Program            | 12--15 October 2020 |
 
-<br>
-
-## Social Program
-
-<br>
-
-| Reception | 11 October 2020 |
-| WiMIR Reception | TBD October 2020 |
-| Concert | 13 October 2020 |
-| Banquet | 14 October 2020 |
 
 <br>
 
