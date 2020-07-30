@@ -20,6 +20,7 @@ social:
 # THEME SETTINGS
 navigation: # Navigation links
   # - {name: 'Home', link: '/'}
+  - {name: 'Registration', link: '/registration'}
   - {name: 'Dates', link: '/dates'}
   - {name: 'Events', link: '/events'}
   - {name: 'Organizers', link: '/organizers'}
