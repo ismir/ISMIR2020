@@ -232,7 +232,7 @@
 
 .cards-container {
   width: 100%;
-
+  height: fit-content;
 
   @include breakpoint($xs) {
     padding-left: 0;
@@ -318,7 +318,7 @@
         // height: 300px;
       }
       @include breakpoint($sm) {
-        height: 475px;
+        height: 500px;
         margin-bottom: 0;
       }
       @include breakpoint($md) {
@@ -433,25 +433,26 @@
 }
 
 .city-card {
-  @include breakpoint($xs) {
-    height: 300px;
-  }
-  @include breakpoint($sm) {
-    // height: calc(20% - 1.125rem);
-  }
-  @include breakpoint($md) {
-    height: calc(20% - 1.125rem);
-  }
-  @include breakpoint($lg) {
-    height: calc(25% - 1.125rem);
-  }
-  @include breakpoint($xl) {
-    height: calc(30% - 1.125rem);
-  }
   // height: calc(50% - 1.125rem);
   width: 100%;
   display: block;
   position: relative;
+
+  @include breakpoint($xs) {
+    height: 350px;
+  }
+  @include breakpoint($sm) {
+    height: 300px;
+  }
+  @include breakpoint($md) {
+    height: 350px;
+  }
+  @include breakpoint($lg) {
+    // height: calc(25% - 1.125rem);
+  }
+  @include breakpoint($xl) {
+    // height: calc(30% - 1.125rem);
+  }
   .city-background {
     width: 100%;
     height: 100%;
