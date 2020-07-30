@@ -7,7 +7,7 @@ permalink: /call_for_tutorials/
 summary: The Call for Tutorials of the 21th International Society for Music Information Retrieval Conference
 ---
 
-ISMIR2020 is pleased to invite proposals for tutorials to be given in conjunction with the conference. Tutorials take place at the start of the ISMIR conference, and this year will be held on Sunday, October 11, 2020 in Montréal. Each tutorial is allocated 3 hours to concentrate on a single topic; tutorials take place in parallel sessions. The tutorials are presented either at an introductory level or in depth, and are intended to provide an informative and stimulating coverage of current topics in MIR and beyond. 
+ISMIR2020 is pleased to invite proposals for tutorials to be given in conjunction with the conference. Tutorials take place at the start of the ISMIR conference, and this year will be held on Sunday, October 11, 2020 in an online format. Each tutorial is allocated 3 hours to concentrate on a single topic; tutorials take place in parallel sessions. The tutorials are presented either at an introductory level or in depth, and are intended to provide an informative and stimulating coverage of current topics in MIR and beyond. 
 
 ## Important Dates
 
