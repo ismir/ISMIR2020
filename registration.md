@@ -10,14 +10,17 @@ background_position: 0% 0%
 
 (All amounts in CAD. [Currency Converter](https://www.bankofcanada.ca/rates/exchange/currency-converter/))
 
-## [Register here!](Fourwaves direct link to registration page; not available until we launch it)
+| Registration Fee                                     | Early Bird (<= 31 August 2020) | Late (>= 1 September 2020) |
+|:-----------------------------------------------------|:----------------------------:|:----------------------------:|
+| Standard Registration                                | $70                          | $90                          |
+| Reduced Registration                                 | $20                          | $30                          |
 
-| Standard Registration (Early Bird through Aug. 31)   | $70  |
-| Reduced Registration (Early Bird through Aug. 31)    | $20  |
-| Standard Registration (Sep. 1 onwards)               | $80  |
-| Reduced Registration (Sep. 1 onwards)                | $30  |
-| Standard Publication Fee                             | $60  |
-| Reduced Publication Fee                              | $10  |
+| Publication Fee *(one author per paper, see below)*  | Deadline: 16 August 2020                               |
+|:-----------------------------------------------------|:------------------------------------------------------:|
+| Standard Publication Fee                             | $60                                                    |
+| Reduced Publication Fee (only for paper authors)     | $10                                                    |
+
+**[Register here!](https://www.youtube.com/watch?v=dQw4w9WgXcQ)**
 
 ### Registration Fees
 
