@@ -9,7 +9,7 @@ summary: The Call for Papers of the 21th International Society for Music Informa
 
 # Call for Papers
 
-The annual conference of the International Society for Music Information Retrieval (ISMIR) is the world’s leading research forum on processing, analyzing, searching, organizing and accessing music-related data. The 21st ISMIR conference ([https://ismir.github.io/ISMIR2020/](https://ismir.github.io/ISMIR2020/)), to be held in Montreal, Canada, welcomes contributions related to any aspect of Music IR, including foundations and theories for music processing, evaluation algorithms, applications, and analysis.
+The annual conference of the International Society for Music Information Retrieval (ISMIR) is the world’s leading research forum on processing, analyzing, searching, organizing and accessing music-related data. The 21st ISMIR conference ([https://ismir.github.io/ISMIR2020/](https://ismir.github.io/ISMIR2020/)), to be held online, welcomes contributions related to any aspect of Music IR, including foundations and theories for music processing, evaluation algorithms, applications, and analysis.
 
 ## Important Dates
 

@@ -11,12 +11,7 @@ The ISMIR Conference provides a meeting place for the discussion of MIR-related 
 
 ISMIR is a non-profit organization which, among other things, oversees the organization of the ISMIR Conference.
 
-### MEETING VENUE
-The scientific program of ISMIR will be hosted at [Centre Mont-Royal (CMR)](https://centremontroyal.com/en/), which is located in the heart of downtown Montréal.
+### ONLINE MEETING
+The scientific program of ISMIR will be hosted online.
 
-The tutorials, concert, and part of the satellite events will be hosted at the [Schulich School of Music](https://www.mcgill.ca/music/) of McGill University.
-
-### OFFSITE VENUES FOR SOCIAL EVENTS
-The ISMIR banquet will be held at [Cirque Éloize](https://www.cirque-eloize.com/en/), a heritage train station dating back to 1883.
-
-The ISMIR reception will be held at [L'Astral](http://www.sallelastral.com/en), one of the finest concert venues for popular music in the city.
+More details to come soon.

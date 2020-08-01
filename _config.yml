@@ -20,14 +20,11 @@ social:
 # THEME SETTINGS
 navigation: # Navigation links
   # - {name: 'Home', link: '/'}
+  # - {name: 'Registration', link: '/registration'}
   - {name: 'Dates', link: '/dates'}
   - {name: 'Events', link: '/events'}
   - {name: 'Organizers', link: '/organizers'}
-  - {name: 'Call for Papers', link: '/cfp'}
-  - {name: 'Call for Music', link: '/c4m'}
-  - {name: 'Call for Tutorials', link: '/call_for_tutorials'}
   - {name: 'Call for Sponsors', link: '/sponsors'}
-  - {name: 'Montréal', link: '/Montreal'}
 
 
 tagline: >
