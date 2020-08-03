@@ -30,7 +30,7 @@ Reduced registration fees are intended for independent students, people from low
 
 To recover some costs from cancelling the physical component of ISMIR, we are charging a publication fee for each paper in addition to registration costs.
 
-Multi-author papers: please choose one person per paper to pay the fee. It is not possible to pay for more than one paper using this form; please contact **[registration-ismir2020@ismir.net](mailto:registration-ismir2020@ismir.net)** if you need to and we will instruct you on how to proceed.
+Multi-author papers: please choose one person per paper to pay the fee. It is not possible to pay for more than one paper using this form; please contact **[emily.hopkins@mcgill.ca](mailto:emily.hopkins@mcgill.ca)** if you need to and we will instruct you on how to proceed.
 
 The Reduced publication fee is intended for independent students, those from low-GDP countries, and low-income authors, who are paying out-of-pocket. If you choose this option, the difference ($50 CAD) will be paid by a corporate sponsor, and your name and contact information will be given to that sponsor.
 
