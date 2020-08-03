@@ -40,4 +40,4 @@ Cancellations made before 1 October 2020 will receive a full refund minus the ad
 
 The publication fee is non-refundable.
 
-## [Register here!](http://fourwav.es/ISMIR-2020/registration)
+## [Register here!](https://fourwav.es/ISMIR-2020/registration)
