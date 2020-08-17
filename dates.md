@@ -6,6 +6,10 @@ permalink: /dates/
 
 ## Deadlines
 
+| [Registration]({{ site.baseurl }}/registration/)             | **Open**          |
+| Publication Fee                                              | 17 August 2020    |
+| Early Bird Registration                                      | 31 August 2020    |
+
 <br>
 
 | [Call for Papers]({{ site.baseurl }}/cfp/)             | **Closed**                |                    |
