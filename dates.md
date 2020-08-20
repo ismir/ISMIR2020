@@ -12,6 +12,14 @@ permalink: /dates/
 
 <br>
 
+| [Call for Late-Breaking/Demo]({{ site.baseurl }}/call_for_lbd/)           | **Open** |
+| Initial submission           | 22 September 2020       | |
+| Request for revision, if necessary             |  23-25 September 2020       | |
+| LBD notification       | 28 September 2020      | |
+| Poster/Video submission      | 5 October 2020      | |
+
+<br>
+
 | [Call for Papers]({{ site.baseurl }}/cfp/)             | **Closed**                |                    |
 | Abstract submission         | ~~10 April 2020~~     | 8 May 2020         |
 | Final submission            | ~~17 April 2020~~     | 15 May 2020        |
@@ -30,14 +38,6 @@ permalink: /dates/
 | Initial submission           | ~~30 April 2020~~     | 22 May 2020       |
 | Final submission             | ~~22 May 2020~~       | 29 May 2020       |
 | Tutorials notification       | ~~15 June 2020~~      | 22 June 2020      |
-
-<br>
-
-| [Call for Late-Breaking/Demo]({{ site.baseurl }}/call_for_lbd/)           | **Open** |
-| Initial submission           | 22 September 2020       | |
-| Request for revision, if necessary             |  23-25 September 2020       | |
-| LBD notification       | 28 September 2020      | |
-| Poster/Video submission      | 5 October 2020      | |
 
 <br>
 
