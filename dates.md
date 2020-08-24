@@ -12,6 +12,10 @@ permalink: /dates/
 
 <br>
 
+| [WiMIR@vISMIR Grants](https://bit.ly/WiMIRgrants2020)           | 30 August 2020 |
+
+<br>
+
 | [Call for Late-Breaking/Demo]({{ site.baseurl }}/call_for_lbd/)           | **Open** |
 | Initial submission           | 22 September 2020       | |
 | Request for revision, if necessary             |  23-25 September 2020       | |
