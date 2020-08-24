@@ -44,7 +44,8 @@ layout: compress
             {% include dates.html %}
           </div>
           <div class="cards-container">
-            {% include city.html %}
+            <!-- {% include city.html %} -->
+            {% include wimirgrants.html %}
             <div class="small-cards">
               {% assign cards = site.cards | sort: 'order' %}
               {% for card in cards %}
