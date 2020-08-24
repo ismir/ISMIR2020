@@ -8,35 +8,35 @@ background_position: 0% 44%
 
 | General co-chairs  |                                                                                                |
 |:------------------:|:-----------------------------------------------------------------------------------------------|
-| Audrey Laplante    | ![Audrey Laplante's picture](/ISMIR2020/assets/img/organizers/pic_100px.jpg "Audrey Laplante") |
+| Audrey Laplante    | ![Audrey Laplante's picture](/ISMIR2020/assets/img/organizers/audrey_100px.jpg "Audrey Laplante") |
 | Ichiro Fujinaga    | ![Ichiro Fujinaga's picture](/ISMIR2020/assets/img/organizers/ich_100px.jpg "Ichiro Fujinaga") |
 
 | Scientific Program  |                                                                                               |
 |:-------------------:|:----------------------------------------------------------------------------------------------|
-| Julie Cumming       | ![Julie Cumming's picture](/ISMIR2020/assets/img/organizers/pic_100px.jpg "Julie Cumming")    |
+| Julie Cumming       | ![Julie Cumming's picture](/ISMIR2020/assets/img/organizers/julie_100px.jpg "Julie Cumming")    |
 | Jin Ha Lee          | ![Jin Ha Lee's picture](/ISMIR2020/assets/img/organizers/jinha_100px.jpg "Jin Ha Lee")        |
-| Brian McFee         | ![Brian McFee's picture](/ISMIR2020/assets/img/organizers/pic_100px.jpg "Brian McFee")        |
+| Brian McFee         | ![Brian McFee's picture](/ISMIR2020/assets/img/organizers/brian_100px.jpg "Brian McFee")        |
 | Markus Schedl       | ![Markus Schedl's picture](/ISMIR2020/assets/img/organizers/markus_100px.jpg "Markus Schedl") |
 
 | Publication      |                                                                                                |
 |:----------------:|:-----------------------------------------------------------------------------------------------|
-| Johanna Devaney  | ![Johanna Devaney's picture](/ISMIR2020/assets/img/organizers/pic_100px.jpg "Johanna Devaney") |
+| Johanna Devaney  | ![Johanna Devaney's picture](/ISMIR2020/assets/img/organizers/johanna_100px.jpg "Johanna Devaney") |
 | Cory McKay       | ![Cory McKay's picture](/ISMIR2020/assets/img/organizers/cory_100px.jpg "Cory McKay")          |
 | Eva Zangerle     | ![Eva Zangerle's picture](/ISMIR2020/assets/img/organizers/eva_100px.jpg "Eva Zangerle")       |
 
 | Tutorials        |                                                                                                  |
 |:----------------:|:-------------------------------------------------------------------------------------------------|
 | Blair Kaneshiro  | ![Blair Kaneshiro's picture](/ISMIR2020/assets/img/organizers/blair_100px.jpg "Blair Kaneshiro") |
-| Mohamed Sordo    | ![Mohamed Sordo's picture](/ISMIR2020/assets/img/organizers/pic_100px.jpg "Mohamed Sordo")       |
+| Mohamed Sordo    | ![Mohamed Sordo's picture](/ISMIR2020/assets/img/organizers/mohamed_100px.jpg "Mohamed Sordo")       |
 
 | Late-breaking/Demo  |                                                                                                    |
 |:-------------------:|:---------------------------------------------------------------------------------------------------|
 | Xiao Hu             | ![Xiao Hu's picture](/ISMIR2020/assets/img/organizers/xiaoxhu_100px.jpg "Xiao Hu")                 |
-| Christian Frisson   | ![Christian Frisson's picture](/ISMIR2020/assets/img/organizers/pic_100px.jpg "Christian Frisson") |
+| Christian Frisson   | ![Christian Frisson's picture](/ISMIR2020/assets/img/organizers/christian_100px.jpg "Christian Frisson") |
 
 | Satellite Events    |                                                                                                |
 |:-------------------:|:-----------------------------------------------------------------------------------------------|
-| Jordan B. L. Smith  | ![Jordan Smith's picture](/ISMIR2020/assets/img/organizers/pic_100px.jpg "Jordan B. L. Smith") |
+| Jordan B. L. Smith  | ![Jordan Smith's picture](/ISMIR2020/assets/img/organizers/jordan_100px.jpg "Jordan B. L. Smith") |
 | Finn Upham          | ![Finn Upham's picture](/ISMIR2020/assets/img/organizers/pic_100px.jpg "Finn Upham")           |
 
 | WiMIR               |                                                                                                            |
@@ -60,7 +60,7 @@ background_position: 0% 44%
 | Music                |                                                                                                        |
 |:--------------------:|:-------------------------------------------------------------------------------------------------------|
 | Guillaume Boutard    | ![Guillaume Boutard's picture](/ISMIR2020/assets/img/organizers/pic_100px.jpg "Guillaume Boutard")     |
-| Gabriel Vigliensoni  | ![Gabriel Vigliensoni's picture](/ISMIR2020/assets/img/organizers/pic_100px.jpg "Gabriel Vigliensoni") |
+| Gabriel Vigliensoni  | ![Gabriel Vigliensoni's picture](/ISMIR2020/assets/img/organizers/gabriel_100px.jpg "Gabriel Vigliensoni") |
 
 | Virtual Technology  |                                                                                      |
 |:-------------------:|:-------------------------------------------------------------------------------------|
@@ -73,8 +73,8 @@ background_position: 0% 44%
 
 | Local Arrangements   |                                                                                                        |
 |:--------------------:|:-------------------------------------------------------------------------------------------------------|
-| Emily Hopkins        | ![Emily Hopkins's picture](/ISMIR2020/assets/img/organizers/pic_100px.jpg "Emily Hopkins")             |
-| Gabriel Vigliensoni  | ![Gabriel Vigliensoni's picture](/ISMIR2020/assets/img/organizers/pic_100px.jpg "Gabriel Vigliensoni") |
+| Emily Hopkins        | ![Emily Hopkins's picture](/ISMIR2020/assets/img/organizers/emily_100px.jpg "Emily Hopkins")             |
+| Gabriel Vigliensoni  | ![Gabriel Vigliensoni's picture](/ISMIR2020/assets/img/organizers/gabriel_100px.jpg "Gabriel Vigliensoni") |
 
 | Volunteers       |                                                                                                |
 |:----------------:|:-----------------------------------------------------------------------------------------------|
