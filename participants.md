@@ -69,7 +69,7 @@ background_position: 0% 44%
 | Website and Conference Management Software  |                                                                                                             |
 |:-------------------------------------------:|:------------------------------------------------------------------------------------------------------------|
 | Néstor Nápoles López                        | ![Néstor Nápoles López's picture](/ISMIR2020/assets/img/organizers/nestor_100px.jpg "Néstor Nápoles López") |
-| Evan Savage                                 | ![Evan Savage's picture](/ISMIR2020/assets/img/organizers/pic_100px.jpg "Evan Savage")                      |
+| Evan Savage                                 | ![Evan Savage's picture](/ISMIR2020/assets/img/organizers/evan_savage_100px.jpg "Evan Savage")                      |
 
 | Local Arrangements   |                                                                                                        |
 |:--------------------:|:-------------------------------------------------------------------------------------------------------|
