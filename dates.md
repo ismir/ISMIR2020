@@ -16,6 +16,11 @@ permalink: /dates/
 
 <br>
 
+| [Prerecorded videos]({{ site.baseurl }}/presenter_instructions/) (for presenters)           | 14 September 2020 |
+| [Poster files]({{ site.baseurl }}/presenter_instructions/) (for presenters)           | 3 October 2020 |
+
+<br>
+
 | [Call for Late-Breaking/Demo]({{ site.baseurl }}/call_for_lbd/)           | **Open** |
 | Initial submission           | 22 September 2020       | |
 | Request for revision, if necessary             |  23-25 September 2020       | |
