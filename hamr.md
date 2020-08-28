@@ -18,9 +18,12 @@ You're invited to participate in HAMR 2020! It will take place October 16--17, v
 -   Computer music
 -   Computational auditory perception/cognition
 
-HAMR is open to everyone. To participate, please sign up to the [MIR Community Slack workspace](https://launchpass.com/mircommunity) (link available at [http://ismir.net/]), and join the **hamr2020-announcement** channel. Then, join in on the brainstorming that will happen during ISMIR, and log in on October 16th to start hacking! Further details will be announced in the Slack.
+HAMR is open to everyone. To participate:
 
-#### What's a Hackathon?
+1. Use the [ISMIR Registration Form](https://www.fourwav.es/view/2078/registration/). You can register for HAMR without registering for ISMIR, but please see the registration form for details on how to do that.
+2. Then, join the HAMR conversation on October 16 and 17 on the ISMIR 2020 Slack workspace. (Details to follow!)
+
+## What's a Hackathon?
 
 [Hackathons](http://en.wikipedia.org/wiki/Hackathon) are events where people gather to collaborate intensively on programming or design projects. A hackathon is a great chance to:
 
@@ -33,7 +36,7 @@ The goal of HAMR\@vISMIR 2020 is to provide a (virtual) space for people from
 various institutions, backgrounds, and experience levels to test out
 novel ideas as opposed to finishing a polished project and paper.
 
-#### HAMR 2020 will be right after ISMIR
+## When: HAMR 2020 will be right after ISMIR
 
 In previous years, HAMR has taken place the weekend before ISMIR as a kind of warm-up.
 But after ISMIR, aren't we all just overflowing with new ideas,
@@ -43,7 +46,7 @@ This year, HAMR will happen *after* ISMIR, making it an excellent chance
 to dive into a newly published dataset, test out a newly launched service,
 or work through a Jupyter notebook tutorial.
 
-#### HAMR 2020 will be asynchronous (sort-of)
+## How: HAMR 2020 will be asynchronous (sort-of)
 
 HAMR will run virtually and has to accommodate an audience stretching from Auckland (GMT+12) to Alaska (GMT-8). This makes it tricky to co-ordinate kick-off (where projects are pitched to the audience) and closing (where groups present their work, and the audience votes on what they liked). Our proposed solution: don't!
 
