@@ -68,4 +68,4 @@ permalink: /dates/
 | WoRMS                         | **Cancelled**     |
 | [DLfM](https://dl.acm.org/conference/dlfm)                          | 16 October 2020     |
 | [NLP4MusA](https://sites.google.com/view/nlp4musa)                      | 16 October 2020     |
-| HAMR                          | 16--17 October 2020 |
+| [HAMR]({{ site.baseurl }}/hamr/)                          | 16--17 October 2020 |
