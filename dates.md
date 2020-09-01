@@ -16,6 +16,11 @@ permalink: /dates/
 
 <br>
 
+| [Prerecorded videos]({{ site.baseurl }}/presenter_instructions/) (for presenters)           | 14 September 2020 |
+| [Poster files]({{ site.baseurl }}/presenter_instructions/) (for presenters)           | 3 October 2020 |
+
+<br>
+
 | [Call for Late-Breaking/Demo]({{ site.baseurl }}/call_for_lbd/)           | **Open** |
 | Initial submission           | 22 September 2020       | |
 | Request for revision, if necessary             |  23-25 September 2020       | |
@@ -63,4 +68,4 @@ permalink: /dates/
 | WoRMS                         | **Cancelled**     |
 | [DLfM](https://dl.acm.org/conference/dlfm)                          | 16 October 2020     |
 | [NLP4MusA](https://sites.google.com/view/nlp4musa)                      | 16 October 2020     |
-| HAMR                          | 16--17 October 2020 |
+| [HAMR]({{ site.baseurl }}/hamr/)                          | 16--17 October 2020 |

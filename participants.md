@@ -55,16 +55,17 @@ background_position: 0% 44%
 
 | Industry        |                                                                                              |
 |:---------------:|:---------------------------------------------------------------------------------------------|
-| Rachel Bittner  | ![Rachel Bittner's picture](/ISMIR2020/assets/img/organizers/pic_100px.jpg "Rachel Bittner") |
+| Rachel Bittner  | ![Rachel Bittner's picture](/ISMIR2020/assets/img/organizers/rachel_100px.jpg "Rachel Bittner") |
+| Thor Kell       | ![Thor Kell's picture](/ISMIR2020/assets/img/organizers/thor_100px.jpg "Thor Kell") |
 
 | Music                |                                                                                                        |
 |:--------------------:|:-------------------------------------------------------------------------------------------------------|
-| Guillaume Boutard    | ![Guillaume Boutard's picture](/ISMIR2020/assets/img/organizers/pic_100px.jpg "Guillaume Boutard")     |
+| Guillaume Boutard    | ![Guillaume Boutard's picture](/ISMIR2020/assets/img/organizers/guillaume_100px.jpg "Guillaume Boutard")     |
 | Gabriel Vigliensoni  | ![Gabriel Vigliensoni's picture](/ISMIR2020/assets/img/organizers/gabriel_100px.jpg "Gabriel Vigliensoni") |
 
 | Virtual Technology  |                                                                                      |
 |:-------------------:|:-------------------------------------------------------------------------------------|
-| Finn Upham          | ![Finn Upham's picture](/ISMIR2020/assets/img/organizers/pic_100px.jpg "Finn Upham") |
+| Finn Upham          | ![Finn Upham's picture](/ISMIR2020/assets/img/organizers/finn_100px.jpg "Finn Upham") |
 
 | Website and Conference Management Software  |                                                                                                             |
 |:-------------------------------------------:|:------------------------------------------------------------------------------------------------------------|
@@ -78,4 +79,4 @@ background_position: 0% 44%
 
 | Volunteers       |                                                                                                |
 |:----------------:|:-----------------------------------------------------------------------------------------------|
-| Caroline Traube  | ![Caroline Traube's picture](/ISMIR2020/assets/img/organizers/pic_100px.jpg "Caroline Traube") |
+| Caroline Traube  | ![Caroline Traube's picture](/ISMIR2020/assets/img/organizers/caroline_100px.jpg "Caroline Traube") |

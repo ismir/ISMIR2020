@@ -69,3 +69,13 @@ NLP4MusA will be FREE this year! Please [register through the ISMIR form](https:
 If you have already registered for ISMIR, you can sign in to your registration with your email address and update it to include your NLP4MusA registration.
 
 If you wish to attend NLP4MusA but *not* ISMIR, please contact [ismir2020-registration@ismir.net](mailto:ismir2020-registration@ismir.net) for an ISMIR fee waiver code to bypass that part of the form.
+
+### HAMR (Hacking Audio and Music Research), 16--17 October 2020
+
+[HAMR main page]({{ site.baseurl }}/hamr/)
+
+Participation in HAMR is also free! The steps to register are the same as for NLP4MusA above: [register through the ISMIR form](https://fourwav.es/ISMIR-2020/registration).
+
+If you have already registered for ISMIR, you can sign in to your registration with your email address and update it to include your HAMR registration.
+
+If you wish to attend HAMR but *not* ISMIR, please contact [ismir2020-registration@ismir.net](mailto:ismir2020-registration@ismir.net) for an ISMIR fee waiver code to bypass that part of the form.

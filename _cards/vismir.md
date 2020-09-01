@@ -1,6 +1,6 @@
 ---
 title: ISMIR2020 will be hosted online
-order: 1
+order: 2
 more: True
 img: virtualnetwork.jpg
 background-color: F07D00
