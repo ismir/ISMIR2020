@@ -1,5 +1,5 @@
 ---
-title: We are looking for volunteers.
+title: We are looking for volunteers
 order: 1
 more: True
 img: volunteers.jpg
