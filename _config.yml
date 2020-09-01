@@ -20,7 +20,7 @@ social:
 # THEME SETTINGS
 navigation: # Navigation links
   # - {name: 'Home', link: '/'}
-  - {name: 'Program', link: '/assets/img/program/vISMIR 2020 Preliminary Schedule.pdf'}
+  - {name: 'Program', link: 'assets/img/program/vISMIR-2020-Preliminary-Schedule.pdf'}
   - {name: 'Registration', link: '/registration'}
   - {name: 'Dates', link: '/dates'}
   - {name: 'Events', link: '/events'}
