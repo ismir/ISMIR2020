@@ -28,9 +28,9 @@ These videos will be publicly available for streaming during the conference on m
 September 14th, 2020, [Anywhere On Earth (AOE)](https://www.timeanddate.com/time/zones/aoe)
 
 ### Submission process
-Direct upload instructions are forthcoming. In case of access restrictions or complications, participants may also share URL links to uploads of their video to [ismir2020.video@ismir.net](mailto:ismir2020.video@ismir.net) using their own dropbox service or [weTransfer](https://wetransfer.com/).
+Direct upload instructions are forthcoming. In case of access restrictions or complications, participants may also share URL links to uploads of their video to [ismir2020-video@ismir.net](mailto:ismir2020-video@ismir.net) using their own dropbox service or [weTransfer](https://wetransfer.com/).
 
-If you have any questions, contact [ismir2020.video@ismir.net](mailto:ismir2020.video@ismir.net)
+If you have any questions, contact [ismir2020-video@ismir.net](mailto:ismir2020-video@ismir.net)
 
 ## Poster file
 The digital poster file should be formatted for display on screens rather than large format print. We recommend a horizontal or vertical arrangement that allows participants to scroll and zoom easily. 
