@@ -1,5 +1,10 @@
-<div class="sponsors-card">
-  <div class="post-card__inner">
+<div class="sponsors-card" style="background-color: {{ include.background_color }}; margin-top: {{ include.margin_top }};"
+>
+  <div class="post-card__inner"
+  {% if include.padding %}
+    style="padding: {{ include.padding }}"
+  {% endif %}
+  >
     <h3 class="platinum title">Platinum Sponsors</h3>
     <div class="platinum-wrapper">
       <a href="https://www.spotify.com/">
