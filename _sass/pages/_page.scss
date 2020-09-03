@@ -71,28 +71,38 @@
 }
 
 .hero__wrap__home {
-  @extend .container;
-  position: relative;
+  // @extend .container;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  padding: 0;
+  width: calc(100% - 4.5rem);
+  transform: translateY(-50%) translateX(-50%);
+  max-width: 1200px;
 
   color: rgba(255, 255, 255, 0.8);
   z-index: 1;
 
+  .hero__meta {
+    margin-bottom: 0;
+  }
+
   @include breakpoint($xs) {
-    padding-top: 28px;
+    // padding-top: 28px;
     .hero__title {
       font-size: 1.45em;
       line-height: 25px;
     }
   }
   @include breakpoint($md) {
-    padding-top: 14px;
+    // padding-top: 14px;
     .hero__title {
       font-size: 1.9em;
       line-height: 32px;
     }
   }
   @include breakpoint($lg) {
-    padding-top: 44px;
+    // padding-top: 44px;
     .hero__title {
       font-size: 2.2em;
       line-height: 34px;
