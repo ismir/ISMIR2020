@@ -16,6 +16,31 @@ footer {
     }
   }
 }
+.institutions {
+  display: grid;
+  align-items: center;
+  justify-items: center;
+  margin-bottom: 30px;
+
+  #udem-logo {
+    width: 65%;
+  }
+  @include breakpoint($xs) {
+    #mcgill-schulich-logo {
+      margin-top: 0;
+    }
+  }
+  @include breakpoint($sm) {
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    #mcgill-schulich-logo {
+      margin-top: 6%;
+    }
+  }
+  @include breakpoint($lg) {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
 
 .social {
   display: flex;
