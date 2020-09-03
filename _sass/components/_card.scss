@@ -1,3 +1,7 @@
+hr {
+  background: #dcdcdc;
+}
+
 .post-card {
   display: block;
   position: relative;
@@ -537,7 +541,7 @@
   .post-card__inner {
     div {
       display:flex;
-      margin-top: 40px;
+      margin-top: 20px;
       margin-bottom: 40px;
     }
     h3 {
@@ -545,6 +549,9 @@
       padding: 10px;
       color: white;
       border-radius: 4px;
+      &:not(:first-child) {
+        margin-top: 40px;
+      }
       &.platinum {
         // background-image: -webkit-repeating-linear-gradient(left, hsla(0,0%,100%,0) 0%, hsla(0,0%,100%,0)   6%, hsla(0,0%,100%, .1) 7.5%),
         //   -webkit-repeating-linear-gradient(left, hsla(0,0%,  0%,0) 0%, hsla(0,0%,  0%,0)   4%, hsla(0,0%,  0%,.03) 4.5%),
