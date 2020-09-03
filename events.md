@@ -15,3 +15,5 @@ ISMIR is a non-profit organization which, among other things, oversees the organ
 The scientific program of ISMIR will be hosted online.
 
 More details to come soon.
+
+{% include sponsors.html background_color="transparent" padding="0" margin_top="40px" %}

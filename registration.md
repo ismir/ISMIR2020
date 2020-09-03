@@ -79,3 +79,5 @@ Participation in HAMR is also free! The steps to register are the same as for NL
 If you have already registered for ISMIR, you can sign in to your registration with your email address and update it to include your HAMR registration.
 
 If you wish to attend HAMR but *not* ISMIR, please contact [ismir2020-registration@ismir.net](mailto:ismir2020-registration@ismir.net) for an ISMIR fee waiver code to bypass that part of the form.
+
+{% include sponsors.html background_color="transparent" padding="0" margin_top="40px" %}
