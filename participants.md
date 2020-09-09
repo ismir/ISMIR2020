@@ -37,7 +37,7 @@ background_position: 0% 44%
 | Satellite Events    |                                                                                                |
 |:-------------------:|:-----------------------------------------------------------------------------------------------|
 | Jordan B. L. Smith  | ![Jordan Smith's picture](/ISMIR2020/assets/img/organizers/jordan_100px.jpg "Jordan B. L. Smith") |
-| Finn Upham          | ![Finn Upham's picture](/ISMIR2020/assets/img/organizers/pic_100px.jpg "Finn Upham")           |
+| Finn Upham          | ![Finn Upham's picture](/ISMIR2020/assets/img/organizers/finn_100px.jpg "Finn Upham")           |
 
 | WiMIR               |                                                                                                            |
 |:-------------------:|:-----------------------------------------------------------------------------------------------------------|
