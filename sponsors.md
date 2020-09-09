@@ -228,3 +228,5 @@ Sponsors are encouraged to support a diverse and inclusive MIR community by cont
 | **Workshop Materials** | Printed materials plus swag | Printed materials plus swag | Printed materials only | Printed materials only |
 | **Workshop Table** | Yes | Yes | -- | -- |
 | **Other** | Blog post | -- | -- | -- | -->
+
+{% include sponsors.html background_color="transparent" padding="0" margin_top="40px" %}
