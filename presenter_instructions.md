@@ -28,7 +28,8 @@ These videos will be publicly available for streaming during the conference on m
 September 14th, 2020, [Anywhere On Earth (AOE)](https://www.timeanddate.com/time/zones/aoe)
 
 ### Submission process
-Direct upload instructions are forthcoming. In case of access restrictions or complications, participants may also share URL links to uploads of their video to [ismir2020-video@ismir.net](mailto:ismir2020-video@ismir.net) using their own dropbox service or [weTransfer](https://wetransfer.com/).
+
+If Dropbox is accessible from your region, please submit your 4-minute presentation videos via this [file request link](https://www.dropbox.com/request/oI5j5mMaeWSwGKNx4XNi). If the Dropbox link does not work in your region, please submit via [this oneDrive file request link](https://mcgill-my.sharepoint.com/:f:/g/personal/finn_upham_mail_mcgill_ca/EitzuJBkjv5Bp0TfHd97saYBo81zd2OEgXDeCOcLcj0G_Q).
 
 If you have any questions, contact [ismir2020-video@ismir.net](mailto:ismir2020-video@ismir.net)
 
