@@ -9,6 +9,7 @@ Gemfile.lock
 npm-debug.log
 *.js.map
 maps
+CNAME
 
 # OS Generated files #
 ######################
