@@ -55,7 +55,7 @@ If you have already registered for ISMIR, you can sign in to your registration w
 If you wish to attend DLfM but *not* ISMIR, please contact [ismir2020-registration@ismir.net](mailto:ismir2020-registration@ismir.net) for an ISMIR fee waiver code to bypass that part of the form.
 
 | Fees for DLfM                                   | Amount (CAD) |
-|-------------------------------------------------|--------------|
+|-------------------------------------------------|:------------:|
 | Presenter fees (includes conference attendance) | $95          |
 | Standard attendance                             | $15          |
 | Reduced attendance                              | $5           |
