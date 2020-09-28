@@ -15,9 +15,14 @@ permalink: /WiMIR/
 
 ![Johanna Devaney's picture](/ISMIR2020/assets/img/wimir/johanna_devaney.jpg "Johanna Devaney")
 
-*Johanna Devaney's research seeks to understand how humans engage with music, primarily through performance, with a particular focus on the singing voice, and how computers can be used to model and augment our understanding of this engagement. Her work draws on the disciplines of music, psychology, and computer science and has been published in the Journal of New Music Research, Psychomusicology, the Journal of Interdisciplinary Music Studies, and Ex Tempore as well as presented at numerous international and national conferences. She is currently the speciality chief editor for the Digital Musicology section of Frontiers in Digital Humanities.*
+*Johanna Devaney is an Assistant Professor at Brooklyn College and the CUNY Graduate Center. At Brooklyn College she teaches primarily in the Music Technology and Sonic Arts areas and at the Graduate Center she is appointed to the Music and the Data Analysis and Visualization programs. Previously, she was an Assistant Professor of Music Theory and Cognition at Ohio State University and a postdoctoral scholar at the Center for New Music and Audio Technologies (CNMAT) at the University of California at Berkeley. Johanna completed her PhD in music technology at the Schulich School of Music of McGill University. She also holds an MPhil degree in music theory from Columbia University and an MA in composition from York University in Toronto.*
+
+*Johanna’s research focuses on interdisciplinary approaches to the study of musical performance. Primarily, she examines the ways in which recorded performances can be used to study performance practice and develops computational tools to facilitate this. Her work draws on the disciplines of music, computer science, and psychology, and has been funded by the Social Sciences and Humanities Research Council of Canada (SSHRC), the Google Faculty Research Awards program and the National Endowment for the Humanities (NEH) Digital Humanities program.*
 
 # Women in MIR meet up sessions
+
+Each WiMIR Meet-up Session will be an informal Q&A-type drop-in event akin to an “office hour” lasting about 45 minutes. In these sessions, participants will have the opportunity to talk with a notable woman in the field.
+
 
 ![WiMIR Meetup Sessions](/ISMIR2020/assets/img/program/WiMIRSessions.png "WiMIR Meetup Sessions")
 
@@ -78,4 +83,4 @@ We thank our generous WiMIR sponsors for 2020
 
 <br>
 
-![Pandora](/ISMIR2020/assets/img/sponsors/Pandora.jpg)
+<!-- ![Pandora](/ISMIR2020/assets/img/sponsors/Pandora.jpg) -->
