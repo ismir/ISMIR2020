@@ -25,6 +25,9 @@ footer {
   #udem-logo {
     width: 65%;
   }
+  #ismir-org-logo {
+    width: 60%;
+  }
   @include breakpoint($xs) {
     #mcgill-schulich-logo {
       margin-top: 0;
@@ -32,13 +35,13 @@ footer {
   }
   @include breakpoint($sm) {
     grid-template-columns: repeat(2, 1fr);
-    grid-template-rows: repeat(2, 1fr);
+    grid-template-rows: repeat(3, 1fr);
     #mcgill-schulich-logo {
       margin-top: 6%;
     }
   }
   @include breakpoint($lg) {
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(5, 1fr);
     grid-template-rows: auto;
   }
 }
