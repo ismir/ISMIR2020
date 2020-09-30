@@ -40,7 +40,7 @@ The digital poster file should be formatted for display on screens rather than l
 
 - Vertical dimensions: Another option is to generate a long poster, scrolled in one direction without the need for changing scale. This arrangement is more convenient for mobile devices and tablets. For more discussion on vertical poster design, see [this twitter thread](https://twitter.com/Krista_BH/status/1272502304764235777) and this [example vertical poster](https://my.visme.co/view/8r9e71qk-icis2020-poster-gazefollowing-movieversion).
 
-However you generate the poster, please submit a `.pdf` file. Links to dynamic documents generated on Visme or similar webapps can be shared within your poster’s slack channel; Alternatively, by embedding a QR code in the PDF poster that links to its interactive version. 
+However you generate the poster, please submit a `.pdf` file. Links to dynamic documents generated on Visme or similar webapps can be shared within your poster’s slack channel; alternatively, by embedding a QR code in the PDF poster that links to its interactive version. 
 
 Regarding the filename convention, please follow the same guidelines used for video submissions, except for the file format (e.g., `118_Upham.pdf`).
 
