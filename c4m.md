@@ -57,5 +57,5 @@ Questions can be directed to [ismir2020-music@ismir.net](mailto:ismir2020-music@
 - Notification of acceptance: 31 July 2020
 - Provision of detailed performance materials: 21 August 2020
 - Concert date: 13 October 2020
-- Conference dates: 11-15 October 2020
+- Conference dates: 11-16 October 2020
 
