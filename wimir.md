@@ -83,4 +83,4 @@ We thank our generous WiMIR sponsors for 2020
 
 <br>
 
-<!-- ![Pandora](/ISMIR2020/assets/img/sponsors/Pandora.jpg) -->
+![Pandora](/ISMIR2020/assets/img/wimir/sponsors/SiriusxmPandora.png)
