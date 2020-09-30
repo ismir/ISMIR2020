@@ -25,7 +25,7 @@ These videos will be publicly available for streaming during the conference on m
 - Filename: include paper submission number and presenting author’s family name (ex: 118_Upham.mp4)
 
 ### Submission deadline
-September 14th, 2020, [Anywhere On Earth (AOE)](https://www.timeanddate.com/time/zones/aoe)
+14 September 2020, [Anywhere On Earth (AOE)](https://www.timeanddate.com/time/zones/aoe)
 
 ### Submission process
 
@@ -40,9 +40,13 @@ The digital poster file should be formatted for display on screens rather than l
 
 - Vertical dimensions: Another option is to generate a long poster, scrolled in one direction without the need for zoom. This arrangement is more convenient for mobile devices and tablets. PDF or dynamic document generated on Visme or similar webapp ([Ex](https://my.visme.co/view/8r9e71qk-icis2020-poster-gazefollowing-movieversion)). ([Sample vertical long instructions](https://twitter.com/Krista_BH/status/1272502304764235777))
 
-### Submission
-Deadline: October 3rd, 2020, [Anywhere On Earth (AOE)](https://www.timeanddate.com/time/zones/aoe)
-Direct upload instructions are forthcoming.
+### Submission deadline
+3 October 2020, [Anywhere On Earth (AOE)](https://www.timeanddate.com/time/zones/aoe)
+
+### Submission process
+If Dropbox is accessible from your region, please submit your poster PDFs via this [file request link](https://www.dropbox.com/request/BlFpF2kxncjg07x1UPbG). If the Dropbox link does not work in your region, please submit via [this oneDrive file request link](https://mcgill-my.sharepoint.com/:f:/g/personal/nestor_napoleslopez_mail_mcgill_ca/EmaHAjBdteBOi7RzwK5QF4MB8xhqu4GyO-P8OqVhACKd8w).
+
+If you have any questions, contact [ismir2020-video@ismir.net](mailto:ismir2020-video@ismir.net).
 
 ## Poster sessions
 Each poster will be given a channel in the conference Slack workspace. This channel will be open for asynchronous text discussion of the project throughout the conference and for synchronous audio/video discussion during the poster sessions. To help visitors, presenters can prepare their channel by pinning their poster documents and link to their paper materials and video on the ISMIR 2020 website.
