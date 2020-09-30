@@ -22,7 +22,7 @@ These videos will be publicly available for streaming during the conference on m
 - Video codec: H.264
 - Dimension: minimum height 480 px, aspect ratio 16:9
 - Resolution: 720p
-- Filename: include paper submission number and presenting author’s family name (ex: 118_Upham.mp4)
+- Filename: include paper submission number and presenting author’s family name (e.g., `118_Upham.mp4`)
 
 ### Submission deadline
 14 September 2020, [Anywhere On Earth (AOE)](https://www.timeanddate.com/time/zones/aoe)
@@ -38,7 +38,11 @@ The digital poster file should be formatted for display on screens rather than l
 
 - Horizontal dimension: The poster should be designed to follow the proportion of a computer screen (16: 9) and allow for good quality graphics when zooming on specific sections of the poster. The recommended size is 24 inches tall (60 cm) by 42 inches wide (105 cm). The file should be saved as a PDF and its size should not exceed 100MB. ([Sample horizontal instructions](https://www.iaps2020.com/presentation-guidelines))
 
-- Vertical dimensions: Another option is to generate a long poster, scrolled in one direction without the need for zoom. This arrangement is more convenient for mobile devices and tablets. PDF or dynamic document generated on Visme or similar webapp ([Ex](https://my.visme.co/view/8r9e71qk-icis2020-poster-gazefollowing-movieversion)). ([Sample vertical long instructions](https://twitter.com/Krista_BH/status/1272502304764235777))
+- Vertical dimensions: Another option is to generate a long poster, scrolled in one direction without the need for changing scale. This arrangement is more convenient for mobile devices and tablets. For more discussion on vertical poster design, see [this twitter thread](https://twitter.com/Krista_BH/status/1272502304764235777) and this [example vertical poster](https://my.visme.co/view/8r9e71qk-icis2020-poster-gazefollowing-movieversion).
+
+However you generate the poster, please submit a `.pdf` file. Links to dynamic documents generated on Visme or similar webapps can be shared within your poster’s slack channel; Alternatively, by embedding a QR code in the PDF poster that links to its interactive version. 
+
+Regarding the filename convention, please follow the same guidelines used for video submissions, except for the file format (e.g., `118_Upham.pdf`).
 
 ### Submission deadline
 3 October 2020, [Anywhere On Earth (AOE)](https://www.timeanddate.com/time/zones/aoe)
