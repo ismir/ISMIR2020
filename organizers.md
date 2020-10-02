@@ -44,10 +44,6 @@ background_position: 0% 44%
 | Claire Arthur       | ![Claire Arthur's picture](/ISMIR2020/assets/img/organizers/claire_100px.jpg "Claire Arthur")              |
 | Katherine Kinnaird  | ![Katherine Kinnaird's picture](/ISMIR2020/assets/img/organizers/katherine_100px.jpg "Katherine Kinnaird") |
 
-| Unconference  |                                                                              |
-|:-------------:|:-----------------------------------------------------------------------------|
-| T.B.D.        | ![T.B.D.'s picture](/ISMIR2020/assets/img/organizers/pic_100px.jpg "T.B.D.") |
-
 | Sponsorship            |                                                                                                                  |
 |:----------------------:|:-----------------------------------------------------------------------------------------------------------------|
 | Elena Georgieva        | ![Elena Georgieva's picture](/ISMIR2020/assets/img/organizers/elena_100px.jpg "Elena Georgieva")                 |
