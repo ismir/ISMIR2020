@@ -3,7 +3,7 @@ title: ISMIR 2020  # your site title
 author: Evan Savage # You :P
 description: > # Meta description of Homepage
   International Society for Music Information Retrieval Conference
-baseurl: "/ISMIR2020" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
