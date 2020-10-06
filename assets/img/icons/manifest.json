@@ -1,13 +1,13 @@
 {
-    "name": "Sleek",
+    "name": "ISMIR 2020",
     "icons": [
         {
-            "src": "/assets/img/icons/android-chrome-192x192.png?v=qA3OXqyw77",
+            "src": "/assets/img/icons/ismir_tab_icon.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "/assets/img/icons/android-chrome-256x256.png?v=qA3OXqyw77",
+            "src": "/assets/img/icons/ismir_tab_icon.png",
             "sizes": "256x256",
             "type": "image/png"
         }
