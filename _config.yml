@@ -20,7 +20,7 @@ social:
 # THEME SETTINGS
 navigation: # Navigation links
   # - {name: 'Home', link: '/'}
-  - {name: 'Program', link: 'https://program.ismir2020.org'}
+  - {name: 'Program', link: 'https://program.ismir2020.org/calendar'}
   - {name: 'For Participants', link: '/participants'}
   - {name: 'Registration', link: '/registration'}
   - {name: 'Dates', link: '/dates'}
