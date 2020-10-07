@@ -9,6 +9,11 @@ pages = [
     'sponsors',
     'WiMIR',
     'presenter_instructions',
+    'call_for_lbd',
+    'cfp',
+    'c4m',
+    'tutorials',
+    'hamr'
 ]
 
 template = '''\
