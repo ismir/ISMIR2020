@@ -24,63 +24,63 @@ Nine participating groups presented explainer videos and links to code, and a vo
 
 #### 1. Analysis of Chord Progression Networks **Best Documentation!**
 
-By [Lidija Jovanovska](https://github.com/lidija-jovanovska) and Bojan Evkoski
-[Video](https://youtu.be/g_CONXW3Xpw), [Code](https://github.com/lidija-jovanovska/HAMR-2020), [Demo](https://colab.research.google.com/drive/1zr-yTdOp2xdnS_XYG4hQ1bh6QBEflASU?usp=sharing)
+- By [Lidija Jovanovska](https://github.com/lidija-jovanovska) and Bojan Evkoski
+- Links to [Video](https://youtu.be/g_CONXW3Xpw), [Code](https://github.com/lidija-jovanovska/HAMR-2020), [Demo](https://colab.research.google.com/drive/1zr-yTdOp2xdnS_XYG4hQ1bh6QBEflASU?usp=sharing)
 
 Research crossing the fields of network science and MIR & musicology is relatively scarce. By representing specific entities (i.e. chords, notes, keys...) and relationships between them with the help of networks we can utilize the plethora of research methods that have been developed in that field.
 
 #### 2. Change The Way You Listen
 
-By [İdil Sülo](https://idilsulo.github.io/)
-[Video](https://youtu.be/lMvLhuDUTA4), [Code](https://github.com/idilsulo/change-the-way-you-listen)
+- By [İdil Sülo](https://idilsulo.github.io/)
+- Links to [Video](https://youtu.be/lMvLhuDUTA4), [Code](https://github.com/idilsulo/change-the-way-you-listen)
 [Website](changethewayyoulisten.pythonanywhere.com/)
 
 Change The Way You Listen helps you create playlists based on your top listened artists in the last month using certain tracks properties such as danceability, energy, tempo and so on. It also shows you your own personal listening analysis based on the top artists that you had listened in the past 6 months.
 
 #### 3. Jam In Tune
 
-By [Alex Berrian](http://alexberrian.com)
-[Video](https://www.youtube.com/watch?v=fAkMpbIPKv4), [Code](https://github.com/alexberrian/JamInTune)
+- By [Alex Berrian](http://alexberrian.com)
+- Links to [Video](https://www.youtube.com/watch?v=fAkMpbIPKv4), [Code](https://github.com/alexberrian/JamInTune)
 
 Ever tried to play along to a song, and it turned out that you were in tune but the song was between keys? JamInTune is a Python package you can use to automatically tune that song!
 
 #### 4. Mad Mashup Generator
 
-By [Georgi Dzhambazov](https://github.com/georgid) and [Milen Minev](https://github.com/MilenMMinev)
-[Video](https://www.youtube.com/watch?v=Xc99NvCjAXI), [Code](https://github.com/MilenMMinev/mmp)
+- By [Georgi Dzhambazov](https://github.com/georgid) and [Milen Minev](https://github.com/MilenMMinev)
+- Links to [Video](https://www.youtube.com/watch?v=Xc99NvCjAXI), [Code](https://github.com/MilenMMinev/mmp)
 
 The mashup consists of an original and a cover version of your favourite song. Their chorus segments are played in alternating way bar-by-bar based on the music bars.
 
 #### 5. Meowify **Best Hack / Research Direction!**
 
-By [Thomas Melistas](https://github.com/gulnazaki)
-[Video](https://youtu.be/EjrlgksRq0U), [Code](https://github.com/gulnazaki/meowify)
+- By [Thomas Melistas](https://github.com/gulnazaki)
+- Links to [Video](https://youtu.be/EjrlgksRq0U), [Code](https://github.com/gulnazaki/meowify)
 
 Turn vocals from any youtube song to meows!
 
 #### 6. MixViz (Dj Mix Vizualization)
 
-By Raphaël Romero, Mickaël Zehren, Alex de Raadt and [Len Vande Veire](https://lenvdv.github.io/)
-[Video](https://www.youtube.com/watch?v=VFGCC-CQ7IY), [Code](https://github.com/lenvdv/hamr-2020-dj-mix-analysis)
+- By Raphaël Romero, Mickaël Zehren, Alex de Raadt and [Len Vande Veire](https://lenvdv.github.io/)
+- Links to [Video](https://www.youtube.com/watch?v=VFGCC-CQ7IY), [Code](https://github.com/lenvdv/hamr-2020-dj-mix-analysis)
 
 This is a tool to visualize the evolution of musical features throughout a DJ mix.
 
 #### 7. Randomly Generated GuitarPro Song **Best Code!**
 
-By [CJ Carr](https://dadabots.com/)
-[Video](https://www.youtube.com/watch?v=TocDrZs1aL4), [Code](https://github.com/Cortexelus/dadagp)
+- By [CJ Carr](https://dadabots.com/)
+- Links to [Video](https://www.youtube.com/watch?v=TocDrZs1aL4), [Code](https://github.com/Cortexelus/dadagp)
 
 #### 8. SinFork
 
-By [Ashwani Rathee](https://github.com/ashwani-rathee)
-[Video](https://youtu.be/xKaJyPVXGSw), [Code](https://github.com/ashwani-rathee/SinFork)
+- By [Ashwani Rathee](https://github.com/ashwani-rathee)
+- Links to [Video](https://youtu.be/xKaJyPVXGSw), [Code](https://github.com/ashwani-rathee/SinFork)
 
 Desktop program for playing around with audio.
 
 #### 9. A Tool for Predicting Music Success
 
-By [Carlos Vicente S. Araujo](https://scholar.google.com/citations?user=0kZvtr4AAAAJ)
-[Video](https://www.youtube.com/watch?v=nQb-fRebUhk), [Code](https://github.com/RealCVice/hamr-2020), [Slides](https://docs.google.com/presentation/d/1u4AJjzmqWdrmm9-l-d4AN4uQFHU3iyYUrKbT4PmaNPI/edit?usp=sharing)
+- By [Carlos Vicente S. Araujo](https://scholar.google.com/citations?user=0kZvtr4AAAAJ)
+- Links to [Video](https://www.youtube.com/watch?v=nQb-fRebUhk), [Code](https://github.com/RealCVice/hamr-2020), [Slides](https://docs.google.com/presentation/d/1u4AJjzmqWdrmm9-l-d4AN4uQFHU3iyYUrKbT4PmaNPI/edit?usp=sharing)
 
 Using songs' acoustic features, a machine learning model for predicting if a song will be at Spotify's Top 50 even before its release is presented. Also, a tool is presented to use it based on Python.
 
@@ -130,11 +130,11 @@ This satisfied our aim to give participants:
 
 Participants will be encouraged to vote in the following categories:
 
--   **Best Code** --> went to CJ Carr's *Randomly Generated GuitarPro Song*!
--   **Best Documentation** --> went to Lidija Jovanovska and Bojan Evkoski's *Analysis of Chord Progression Networks*!
--   **Best Hack/Research Direction** --> went to Thomas Melistas's *Meowify*!
+-   **Best Code** → awarded to CJ Carr's *Randomly Generated GuitarPro Song*!
+-   **Best Documentation** → awarded to Lidija Jovanovska and Bojan Evkoski's *Analysis of Chord Progression Networks*!
+-   **Best Hack/Research Direction** → awarded to Thomas Melistas's *Meowify*!
 
-The awards come with bragging rights. Will there be physical prizes? No.
+The awards come with bragging rights, and absolutely nothing else.
 
 ### Non-2020 mailing list/contact
 
