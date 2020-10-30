@@ -22,7 +22,7 @@ The HAMR Hackathon took place October 16--17, virtually, across the globe.
 
 Nine participating groups presented explainer videos and links to code, and a vote was held among participants in the categories of best code, documentation, and overall hack/research direction. They all did fantastic work!
 
-#### 1. Analysis of Chord Progression Networks **Best Documentation!**
+#### 1. Analysis of Chord Progression Networks -- *awarded Best Documentation!*
 
 - By [Lidija Jovanovska](https://github.com/lidija-jovanovska) and Bojan Evkoski
 - Links to [Video](https://youtu.be/g_CONXW3Xpw), [Code](https://github.com/lidija-jovanovska/HAMR-2020), [Demo](https://colab.research.google.com/drive/1zr-yTdOp2xdnS_XYG4hQ1bh6QBEflASU?usp=sharing)
@@ -51,7 +51,7 @@ Ever tried to play along to a song, and it turned out that you were in tune but 
 
 The mashup consists of an original and a cover version of your favourite song. Their chorus segments are played in alternating way bar-by-bar based on the music bars.
 
-#### 5. Meowify **Best Hack / Research Direction!**
+#### 5. Meowify -- *awarded Best Hack / Research Direction!*
 
 - By [Thomas Melistas](https://github.com/gulnazaki)
 - Links to [Video](https://youtu.be/EjrlgksRq0U), [Code](https://github.com/gulnazaki/meowify)
@@ -65,7 +65,7 @@ Turn vocals from any youtube song to meows!
 
 This is a tool to visualize the evolution of musical features throughout a DJ mix.
 
-#### 7. Randomly Generated GuitarPro Song **Best Code!**
+#### 7. Randomly Generated GuitarPro Song -- *awarded Best Code!*
 
 - By [CJ Carr](https://dadabots.com/)
 - Links to [Video](https://www.youtube.com/watch?v=TocDrZs1aL4), [Code](https://github.com/Cortexelus/dadagp)
